@@ -219,6 +219,17 @@ a:hover {
   border: 3px solid rgba(248, 250, 252, 0.8);
 }
 
+.photo-wrapper {
+  width: 220px;
+  margin: 0 auto 1rem;
+}
+
+.photo-wrapper img {
+  width: 100%;
+  border-radius: 14px; /* or 0 if you want square edges */
+  display: block;
+}
+
 .photo-meta {
   text-align: center;
 }
