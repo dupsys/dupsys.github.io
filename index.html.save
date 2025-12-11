@@ -42,24 +42,27 @@
       <div class="container hero-grid">
         <div class="hero-text">
           <p class="eyebrow">AI · NLP · Multimodal Learning · Data Science</p>
-          <!-- <h1>Dr&nbsp;Abiodun&nbsp;Modupe</h1> -->
+          <h1>Dr&nbsp;Abiodun&nbsp;Modupe</h1>
           <p class="hero-subtitle">
-            Hello! I'm Abiodun, a Lecturer and Coordinator of the Big Data Science program at the University of Pretoria's Computer Science Department. I am affiliated with the Data Science for Social Impact (DSFSI) research lab and serve as a Faculty Fellow with AfriDSAI (African Data Science & Artificial Intelligence). I also hold a position as a Responsible AI Fellow at the Stimson Center, contributing to the AI & Environment working group.
-            <!-- computer scientist focusing on natural language processing (NLP) for African languages, multimodal AI, digital forensics, and digital humanities for social impact. -->
+            Computational scientist and data-driven researcher with a PhD in Computer Science,
+            focusing on natural language processing for African languages, multimodal AI,
+            digital forensics, and AI for social impact.
           </p>
 
-          <!-- <p class="hero-body">
+          <p class="hero-body">
             Abiodun has over five years of experience teaching and coordinating
             postgraduate programmes, supervising MSc/PhD students, and building
             reproducible open-source AI systems in collaboration with partners
             across academia, industry, and civil society.
-          </p> -->
+          </p>
 
           <div class="hero-meta">
             <div>
-              <h3>Research Focus</h3>
+              <h3>Current Focus</h3>
               <p>
-                Multilingual & low-resource NLP, multimodal learning (text–vision), digital humanities & forensic, and responsible AI.
+                Multilingual & low-resource NLP, multimodal learning (text–vision),
+                authorship attribution & forensic linguistics, and responsible AI
+                for finance, governance, and sustainability reporting.
               </p>
             </div>
           </div>
@@ -78,30 +81,27 @@
               <i class="fa-brands fa-github"></i>
             </a>
             <!-- Replace these with your real links -->
-            <a href="https://tinyurl.com/nzapexjr" target="_blank" aria-label="Google Scholar">
+            <a href="#" target="_blank" aria-label="Google Scholar">
               <i class="fa-solid fa-graduation-cap"></i>
             </a>
-            <a href="https://www.linkedin.com/in/abiodunmodupe/" target="_blank" aria-label="LinkedIn">
+            <a href="#" target="_blank" aria-label="LinkedIn">
               <i class="fa-brands fa-linkedin"></i>
             </a>
-            <a href="mailto:abiodunmodupe@domain.com" aria-label="Email">
+            <a href="mailto:your.email@domain.com" aria-label="Email">
               <i class="fa-solid fa-envelope"></i>
             </a>
           </div>
         </div>
 
         <div class="hero-photo-card">
-          <!-- put abbey.png  -->
-<!--           <div class="photo-circle">
-            <img src="abbey.png" alt="Portrait of Abiodun Modupe" />
-          </div> -->
-          <div class="photo-wrapper">
-              <img src="abbey.png" alt="Portrait of Abiodun Modupe" />
+          <!-- Replace avatar.png with a real photo if you like -->
+          <div class="photo-circle">
+            <img src="avatar.png" alt="Portrait of Abiodun Modupe" />
           </div>
           <div class="photo-meta">
-            <p class="photo-title">Machine Learning and NLP Researcher</p>
+            <p class="photo-title">AI & Data Science Researcher</p>
             <p class="photo-subtitle">
-              NLP · Multimodal AI · Digital Forensics & humanities
+              NLP · Multimodal AI · Digital Forensics · ESG & Sustainability
             </p>
           </div>
         </div>
@@ -290,8 +290,8 @@
           <div>
             <h3>Email</h3>
             <p>
-              <a href="mailto:abiodunmodupe@gmail.com">
-                abiodunmodupe@gmail.com
+              <a href="mailto:your.email@domain.com">
+                your.email@domain.com
               </a>
             </p>
 
@@ -327,4 +327,4 @@
     document.getElementById('year').textContent = new Date().getFullYear();
   </script>
 </body>
-</html>
+</html>	
