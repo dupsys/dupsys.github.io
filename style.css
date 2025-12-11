@@ -359,4 +359,17 @@ a:hover {
   .nav-links {
     display: none; /* simple mobile: hide nav links; can be improved with a burger menu later */
   }
+
+  /* Tighten vertical space between sections */
+.section {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+/* Ensure consecutive sections don't create extra gaps */
+.section + .section {
+  margin-top: 0;
+}
 }
