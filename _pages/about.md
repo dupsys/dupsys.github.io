@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Room 4-35, IT Building</p>
-    <p>University of Pretoria/p>
+    <p>University of Pretoria </p>
     <p>Pretoria. South Africa.</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
