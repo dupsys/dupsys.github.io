@@ -9,9 +9,9 @@ profile:
   image: abbey.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Room 4-35, Information Technology Building</p>
-    <p>University of Pretoria, CS Department/p>
-    <p>Hatfield, Pretoria. South Africa.</p>
+    <p>Room 4-35, IT Building</p>
+    <p>University of Pretoria/p>
+    <p>Pretoria. South Africa.</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
