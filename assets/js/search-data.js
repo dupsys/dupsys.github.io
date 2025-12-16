@@ -405,16 +405,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "news-foundations-theory-and-practice-of-e-voting",
-          title: 'Foundations, Theory and Practice of E-Voting.',
+          title: 'Foundations, Theory and Practice of E-Voting',
+          description: "",
+          section: "News",},{id: "news-ai-in-science-and-engineering-symposium-all-you-need-is-community",
+          title: 'AI in Science and Engineering Symposium       All You Need is Community',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
