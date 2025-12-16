@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Invited Talks
+title: News 
 permalink: /news/
 ---
 

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-AI in Science and Engineering Symposium | [All You Need is Community](https://www.youtube.com/watch?v=K0TwLFhBjW0)
+[All You Need is Community](https://www.youtube.com/watch?v=K0TwLFhBjW0) presented at the AI in Science and Engineering Symposium (Ann Arbor, Michigan)
