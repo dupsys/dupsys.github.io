@@ -8,7 +8,6 @@ nav_order: 6
 ---
 
 ### University of Pretoria, Hatfiled Pretoria, South Africa (2019 --- present)
-<<<<<<< HEAD
 - Natural Language Processing [(NLP)](https://www.cs.up.ac.za/module/cos760/)
 - Data mining [COS781](https://www.cs.up.ac.za/module/cos781/)
 - Big Data Science Elective (Deep Learning) [COS 801](https://www.cs.up.ac.za/module/cos801/)
