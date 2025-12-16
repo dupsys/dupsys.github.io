@@ -405,8 +405,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-foundations-theory-and-practice-of-e-voting",
-          title: 'Foundations, Theory and Practice of E-Voting',
+            },},{id: "news-foundations-theory-and-practice-of-e-voting-organised-by-electoral-commission-of-sa",
+          title: 'Foundations, Theory and Practice of E-Voting, organised by Electoral Commission of SA',
           description: "",
           section: "News",},{id: "news-all-you-need-is-community-presented-at-the-ai-in-science-and-engineering-symposium-ann-arbor-michigan",
           title: 'All You Need is Community presented at the AI in Science and Engineering...',
