@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Foundations, Theory and Practice of E-Voting](https://www.youtube.com/watch?v=2zmdjwEGbnA&t=9249s).
+[Foundations, Theory and Practice of E-Voting](https://www.youtube.com/watch?v=2zmdjwEGbnA&t=9249s)
