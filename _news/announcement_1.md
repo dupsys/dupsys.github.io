@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-03-10 10:30:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+[Foundations, Theory and Practice of E-Voting](https://www.youtube.com/watch?v=2zmdjwEGbnA&t=9249s).
