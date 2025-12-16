@@ -4,7 +4,7 @@
     "label": "Lecturer & Coordinator/Research Scientist",
     "image": "",
     "email": "abiodunmodupe@gmail.com",
-    "phone": "(832) 774-3303",
+    "phone": "+1 (832) 774-3303",
     "url": "https://dupsys.github.io",
     "summary": "I am an academic and a researcher with interest in NLP. I have a PhD and nearly ten years of work experience. I am a co-founder of HausaNLP and Arewa Data Science. My research specializes in natural language processing in low-resource settings, focusing on addressing data insufficiency in various NLP applications and solving complex problems with limited data. I aim to bring innovative, data-driven solutions to NLP challenges in a corporate environment.",
     "location": {
@@ -49,25 +49,25 @@
       "endDate": "2024-07-07"
     }
   ],
-  "education": [
-    {
-      "institution": "Tshwane University of Technology",
-      "location": "Pretoria, South Africa",
-      "url": "https://www.tut.ac.za/",
-      "area": "Computer Science and Information Security",
-      "studyType": "Master",
-      "startDate": "2009-07-01",
-      "endDate": "2011-08-11"
+  // "education": [
+  //   {
+  //     "institution": "Tshwane University of Technology",
+  //     "location": "Pretoria, South Africa",
+  //     "url": "https://www.tut.ac.za/",
+  //     "area": "Computer Science and Information Security",
+  //     "studyType": "Master",
+  //     "startDate": "2009-07-01",
+  //     "endDate": "2011-08-11"
      
-    }
-  ],
+  //   }
+  // ],
   "awards": [
     {
       "title": "Best Student Paper Award",
       "date": "2013-08-27",
       "awarder": "International Conference of Information Security and Internet Engineering (IAENG 2013)",
       "url": "",
-      "summary": "TThe paper titled: Investigating Topic Models for Mobile Short Messaging Service Communication Filtering.'"
+      "summary": "The paper titled: Investigating Topic Models for Mobile Short Messaging Service Communication Filtering.'"
     }
   ],
 
