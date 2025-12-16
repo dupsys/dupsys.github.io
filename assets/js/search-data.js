@@ -10,7 +10,7 @@ ninja.data = [{
       window.location.href = "/";
     },
   },{id: "nav-blog",
-          title: "blog",
+          title: "Blog",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -24,8 +24,8 @@ ninja.data = [{
             window.location.href = "/publications/";
           },
         },{id: "nav-cv",
-          title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          title: "CV",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -405,14 +405,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-foundations-theory-and-practice-of-e-voting",
+            },},{id: "news-foundations-theory-and-practice-of-e-voting",
           title: 'Foundations, Theory and Practice of E-Voting',
           description: "",
-          section: "News",},{id: "news-ai-in-science-and-engineering-symposium-all-you-need-is-community",
-          title: 'AI in Science and Engineering Symposium       All You Need is Community',
+          section: "News",},{id: "news-all-you-need-is-community-presented-at-the-ai-in-science-and-engineering-symposium-ann-arbor-michigan",
+          title: 'All You Need is Community presented at the AI in Science and Engineering...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
