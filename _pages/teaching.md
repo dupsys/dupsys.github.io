@@ -36,7 +36,6 @@ nav_order: 6
 
 ### University of South Africa, Johannesburg, South Africa (2012 -- 2016)
 - Computer Organisation and Architecture [COS2621](https://tinyurl.com/mrbbz359)
->>>>>>> ca69de9 (Updating others files)
 
 ### Tshwane University of Technology (2009 -- 2016)
 - Object-Oriented Programming
