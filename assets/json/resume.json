@@ -72,13 +72,8 @@
       "publisher": "Proceedings of the Sixth Workshop on Resources for African Indigenous Languages (RAIL), Co-located with DHASA2025",
       "releaseDate": "2025",
       "url": "https://dh2025.digitalhumanities.org.za/proceedings/",
-<<<<<<< HEAD
       "summary": "The study introduces Mafoko, a RAG-based framework that consolidates South Africa’s fragmented terminology into open datasets, improving translation accuracy and advancing equitable multilingual NLP technologies that better showcase the country’s linguistic diversity."
     },
-=======
-      "summary": "IThe study introduces Mafoko, a RAG-based framework that consolidates South Africa’s fragmented terminology into open datasets, improving translation accuracy and advancing equitable multilingual NLP technologies that better showcase the country’s linguistic diversity."
-    }
->>>>>>> 07a5915 (update44 to the cv)
   ],
   "languages": [
     {
