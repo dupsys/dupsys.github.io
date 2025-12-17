@@ -24,16 +24,16 @@
   },
   "work": [
     {
-      "name": "University of Pretoria, Hatfield Pretoria. South African",
+      "name": "University of Pretoria, Pretoria. South African",
       "position": "Lecturer and Coordinator/Researcher Scientist",
       "url": "https://cs.up.ac.za",
       "startDate": "2019-11-01",
-      "endDate": "present",
+      "endDate": "",
       "summary": "Conduct research at the intersection of AI, with a focus on NLP, computer vision, and cybersecurity, and have 6+ years of experience providing technical leadership in machine learning and data infrastructure. I have a proven track record of managing million-dollar AI research initiatives and leading or collaborating with teams of researchers to develop innovative ML systems for NLP challenges.",
       "highlights":  [
+        "Led curriculum design, supervised research projects, and served as Big Data degree coordinator"
         "Published multiple papers in top-tier NLP conferences and journals.",
         "Developed multiple funding proposals for research projects."
-        // "Developed a novel datasets for hate speech detection and emotion analysis.",
       ]
     }
   ],
@@ -49,18 +49,6 @@
       "endDate": "2024-07-07"
     }
   ],
-  // "education": [
-  //   {
-  //     "institution": "Tshwane University of Technology",
-  //     "location": "Pretoria, South Africa",
-  //     "url": "https://www.tut.ac.za/",
-  //     "area": "Computer Science and Information Security",
-  //     "studyType": "Master",
-  //     "startDate": "2009-07-01",
-  //     "endDate": "2011-08-11"
-     
-  //   }
-  // ],
   "awards": [
     {
       "title": "Best Student Paper Award",
@@ -73,18 +61,18 @@
 
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Cross-lingual embedding methods and applications: A systematic review for low-resourced scenarios",
+      "publisher": "Natural Language Processing Journal",
+      "releaseDate": "2025",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2949719125000330",
+      "summary": "This study presents a systematic review of cross-lingual transfer learning (CLTL) techniques, focusing on their foundations, applications, evaluation methods, language coverage, and recent advances, and highlighting future research directions for low-resource NLP."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Mafoko: Structuring and Building Open Multilingual Terminologies for South African NLP",
+      "publisher": "Proceedings of the Sixth Workshop on Resources for African Indigenous Languages (RAIL), Co-located with DHASA2025",
+      "releaseDate": "2025",
+      "url": "https://dh2025.digitalhumanities.org.za/proceedings/",
+      "summary": "IThe study introduces Mafoko, a RAG-based framework that consolidates South Africa’s fragmented terminology into open datasets, improving translation accuracy and advancing equitable multilingual NLP technologies that better showcase the country’s linguistic diversity."
     },
     {
       "name": "Die Grundlage der allgemeinen Relativitätstheorie",
