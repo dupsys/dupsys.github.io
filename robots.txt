@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: dupsys.github.io/sitemap.xml
+Sitemap: https://dupsys.github.io/sitemap.xml
