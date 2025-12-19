@@ -30,12 +30,11 @@
       "startDate": "2019-11-01",
       "endDate": "",
       "summary": "Conduct research at the intersection of AI, with a focus on NLP, computer vision, and cybersecurity, and have 6+ years of experience providing technical leadership in machine learning and data infrastructure. I have a proven track record of managing million-dollar AI research initiatives and leading or collaborating with teams of researchers to develop innovative ML systems for NLP challenges.",
-      "highlights":  [
+      "highlights": [
         "Led curriculum design, supervised research projects, and served as Big Data degree coordinator.",
         "Published multiple papers in top-tier NLP conferences and journals.",
         "Developed multiple funding proposals for research projects."
       ]
-
     }
   ],
   "eduction": [
@@ -74,7 +73,7 @@
       "releaseDate": "2025",
       "url": "https://dh2025.digitalhumanities.org.za/proceedings/",
       "summary": "The study introduces Mafoko, a RAG-based framework that consolidates South Africa’s fragmented terminology into open datasets, improving translation accuracy and advancing equitable multilingual NLP technologies that better showcase the country’s linguistic diversity."
-    },
+    }
   ],
   "languages": [
     {
@@ -88,5 +87,4 @@
       "icon": ""
     }
   ]
-  
 }
