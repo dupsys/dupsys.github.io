@@ -37,13 +37,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-dsfsi-lab",
-          title: "DSFSI Lab",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/dsfsi/";
-          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
