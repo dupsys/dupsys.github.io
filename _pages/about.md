@@ -21,10 +21,10 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+# latest_posts:
+#   enabled: true
+#   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+#   limit: 3 # leave blank to include all the blog posts
 ---
 
 Hello! I'm Abiodun, a Lecturer and Coordinator of the Big Data Science program at the University of Pretoria's Computer Science Department. I am affiliated with the Data Science for Social Impact [(DSFSI)](https://www.dsfsi.co.za/) research lab and serve as a Faculty Fellow at African Data Science & Artificial Intelligence [AfriDSAI](https://www.up.ac.za/afridsai), where I led research at the intersection of natural language processing (NLP) and computational social science. I also hold a Global Perspectives Responsible AI Fellowship position at the [Stimson Center](https://www.stimson.org/project/responsible-ai-fellowship/fellows/) funded by Microsoft, contributing to the AI & Environment working group. My work focused on AI (NLP), particularly to address linguistic and cultural disparities in AI systems for low-resource languages, computational digital and cybersecurity.
