@@ -31,10 +31,11 @@
       "endDate": "",
       "summary": "Conduct research at the intersection of AI, with a focus on NLP, computer vision, and cybersecurity, and have 6+ years of experience providing technical leadership in machine learning and data infrastructure. I have a proven track record of managing million-dollar AI research initiatives and leading or collaborating with teams of researchers to develop innovative ML systems for NLP challenges.",
       "highlights":  [
-        "Led curriculum design, supervised research projects, and served as Big Data degree coordinator"
+        "Led curriculum design, supervised research projects, and served as Big Data degree coordinator.",
         "Published multiple papers in top-tier NLP conferences and journals.",
         "Developed multiple funding proposals for research projects."
       ]
+
     }
   ],
   "eduction": [
@@ -55,7 +56,7 @@
       "date": "2013-08-27",
       "awarder": "International Conference of Information Security and Internet Engineering (IAENG 2013)",
       "url": "",
-      "summary": "The paper titled: Investigating Topic Models for Mobile Short Messaging Service Communication Filtering.'"
+      "summary": "The paper titled: Investigating Topic Models for Mobile Short Messaging Service Communication Filtering."
     }
   ],
 
