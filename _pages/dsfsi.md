@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /dsfsi/
-redirect: https://www.dsfsi.co.za/
+url: https://www.dsfsi.co.za/
 title: DSFSI Lab
-description: This permalink represent my afflication to DSFSI research lab at the university of pretoria.
+description: This permalink represents my affiliation with the DSFSI Research Lab at the University of Pretoria.
 nav: false
 nav_order: 7
 ---
