@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: University of Pretoria, Pretoria. South Africa. Dupson LLC, Richmond, TX
+subtitle: #University of Pretoria, Pretoria. South Africa. Dupson LLC, Richmond, TX
 
 profile:
   align: right
