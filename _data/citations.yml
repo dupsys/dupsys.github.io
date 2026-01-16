@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-02'
+  last_updated: '2026-01-16'
 papers:
   sdwzJUcAAAAJ:-f6ydRqryjwC:
     citations: 2
@@ -18,11 +18,11 @@ papers:
     title: 'Low resource language dataset creation, curation and classification: Setswana and Sepedi'
     year: '2020'
   sdwzJUcAAAAJ:5nxA0vEk-isC:
-    citations: 56
+    citations: 58
     title: 'Investigating an approach for low resource language dataset creation, curation and classification: Setswana and Sepedi'
     year: '2020'
   sdwzJUcAAAAJ:7PzlFSSx8tAC:
-    citations: 21
+    citations: 22
     title: ChatGPT as a text annotation tool to evaluate sentiment analysis on south African financial institutions
     year: '2024'
   sdwzJUcAAAAJ:9ZlFYXVOiuMC:
@@ -74,7 +74,7 @@ papers:
     title: Filtering of mobile short messaging service communication using latent Dirichlet allocation with social network analysis
     year: '2014'
   sdwzJUcAAAAJ:ULOm3_A8WrAC:
-    citations: 21
+    citations: 20
     title: Post-authorship attribution using regularized deep neural network
     year: '2022'
   sdwzJUcAAAAJ:UeHWp8X0CEIC:
@@ -98,7 +98,7 @@ papers:
     title: Feature Selection and Support Vector Machine hyper parameter optimization for spam detection
     year: '2016'
   sdwzJUcAAAAJ:Zph67rFs4hoC:
-    citations: 8
+    citations: 9
     title: Investigating statistical and machine learning techniques to improve the credit approval process in developing countries
     year: '2021'
   sdwzJUcAAAAJ:aqlVkmm33-oC:
@@ -134,7 +134,7 @@ papers:
     title: PEDI
     year: '2020'
   sdwzJUcAAAAJ:qUcmZB5y_30C:
-    citations: 9
+    citations: 10
     title: Fine-tuning retrieval-augmented generation with an auto-regressive language model for sentiment analysis in financial reviews
     year: '2024'
   sdwzJUcAAAAJ:qjMakFHDy7sC:
