@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-26'
+  last_updated: '2026-01-30'
 papers:
   sdwzJUcAAAAJ:-f6ydRqryjwC:
     citations: 3
@@ -134,7 +134,7 @@ papers:
     title: PEDI
     year: '2020'
   sdwzJUcAAAAJ:qUcmZB5y_30C:
-    citations: 10
+    citations: 11
     title: Fine-tuning retrieval-augmented generation with an auto-regressive language model for sentiment analysis in financial reviews
     year: '2024'
   sdwzJUcAAAAJ:qjMakFHDy7sC:
