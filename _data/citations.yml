@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-04'
+  last_updated: '2026-02-09'
 papers:
   sdwzJUcAAAAJ:-f6ydRqryjwC:
     citations: 3
@@ -22,7 +22,7 @@ papers:
     title: 'Investigating an approach for low resource language dataset creation, curation and classification: Setswana and Sepedi'
     year: '2020'
   sdwzJUcAAAAJ:7PzlFSSx8tAC:
-    citations: 22
+    citations: 24
     title: ChatGPT as a text annotation tool to evaluate sentiment analysis on south African financial institutions
     year: '2024'
   sdwzJUcAAAAJ:9ZlFYXVOiuMC:
@@ -134,7 +134,7 @@ papers:
     title: PEDI
     year: '2020'
   sdwzJUcAAAAJ:qUcmZB5y_30C:
-    citations: 12
+    citations: 13
     title: Fine-tuning retrieval-augmented generation with an auto-regressive language model for sentiment analysis in financial reviews
     year: '2024'
   sdwzJUcAAAAJ:qjMakFHDy7sC:
