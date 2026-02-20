@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-13'
+  last_updated: '2026-02-20'
 papers:
   sdwzJUcAAAAJ:-f6ydRqryjwC:
     citations: 3
@@ -17,9 +17,13 @@ papers:
     citations: 6
     title: 'Low resource language dataset creation, curation and classification: Setswana and Sepedi'
     year: '2020'
+  sdwzJUcAAAAJ:4JMBOYKVnBMC:
+    citations: 0
+    title: Development and Evaluation of a System for Normalizing Internet Slangs in Social Media Texts
+    year: '2015'
   sdwzJUcAAAAJ:5nxA0vEk-isC:
-    citations: 59
-    title: 'Investigating an approach for low resource language dataset creation, curation and classification: Setswana and Sepedi'
+    citations: 60
+    title: 'Investigating an approach for low resource language dataset creation, curation and classification: Setswana and sepedi'
     year: '2020'
   sdwzJUcAAAAJ:7PzlFSSx8tAC:
     citations: 24
@@ -30,7 +34,7 @@ papers:
     title: 'Financial Inclusion in Sub-Saharan Emerging Markets: The Application of Deep Learning to Improve Determinants'
     year: '2023'
   sdwzJUcAAAAJ:9yKSN-GCB0IC:
-    citations: 15
+    citations: 14
     title: Exploring support vector machines and random forests to detect advanced fee fraud activities on internet
     year: '2011'
   sdwzJUcAAAAJ:HDshCWvjkbEC:
@@ -45,21 +49,17 @@ papers:
     citations: 0
     title: Call Centre Shift Schedule Optimisation using Local Search Heuristics
     year: '2021'
-  sdwzJUcAAAAJ:L8Ckcad2t8MC:
-    citations: 0
-    title: Regularized Deep Neural Network for Post-Authorship Attribution
-    year: '2024'
   sdwzJUcAAAAJ:M3ejUd6NZC8C:
     citations: 2
     title: 'Masakhane Web: A Machine Translation Platform for African Languages'
     year: '2023'
   sdwzJUcAAAAJ:QIV2ME_5wuYC:
     citations: 2
-    title: Multimodal Misinformation Detection in a South African Social Media Environment
+    title: Multimodal misinformation detection in a south african social media environment
     year: '2023'
   sdwzJUcAAAAJ:R3hNpaxXUhUC:
     citations: 0
-    title: Cross lingual embedding methods and applications A systematic review for low-resourced scenarios
+    title: 'Cross-lingual embedding methods and applications: A systematic review for low-resourced scenarios'
     year: '2025'
   sdwzJUcAAAAJ:RHpTSmoSYBkC:
     citations: 0
@@ -70,11 +70,11 @@ papers:
     title: 'AI for ESG Governance in South Africa: A Systematic Review of Financial Intelligence Approaches'
     year: Unknown Year
   sdwzJUcAAAAJ:Tyk-4Ss8FVUC:
-    citations: 17
+    citations: 16
     title: Filtering of mobile short messaging service communication using latent Dirichlet allocation with social network analysis
     year: '2014'
   sdwzJUcAAAAJ:ULOm3_A8WrAC:
-    citations: 21
+    citations: 22
     title: Post-authorship attribution using regularized deep neural network
     year: '2022'
   sdwzJUcAAAAJ:UeHWp8X0CEIC:
@@ -82,7 +82,7 @@ papers:
     title: Identifying Advanced Fee Fraud Activities on Internet Using Machine Learning Algorithms
     year: '2010'
   sdwzJUcAAAAJ:W7OEmFMy1HYC:
-    citations: 39
+    citations: 38
     title: Feature selection and support vector machine hyper-parameter optimisation for spam detection
     year: '2016'
   sdwzJUcAAAAJ:Wp0gIr-vW9MC:
@@ -98,15 +98,15 @@ papers:
     title: Feature Selection and Support Vector Machine hyper parameter optimization for spam detection
     year: '2016'
   sdwzJUcAAAAJ:Zph67rFs4hoC:
-    citations: 9
+    citations: 10
     title: Investigating statistical and machine learning techniques to improve the credit approval process in developing countries
     year: '2021'
   sdwzJUcAAAAJ:aqlVkmm33-oC:
-    citations: 5
-    title: FINE-TUNING MULTILINGUAL PRETRAINED AFRICAN LANGUAGE MODELS
+    citations: 6
+    title: Fine-tuning multilingual pretrained african language models
     year: '2023'
   sdwzJUcAAAAJ:d1gkVwhDpl0C:
-    citations: 10
+    citations: 9
     title: Investigating topic models for mobile short messaging service communication filtering
     year: '2013'
   sdwzJUcAAAAJ:e5wmG9Sq2KIC:
@@ -122,12 +122,12 @@ papers:
     title: Maize Disease Detection using Deep Learning Models
     year: '2025'
   sdwzJUcAAAAJ:hFOr9nPyWt4C:
-    citations: 6
+    citations: 8
     title: 'Misinformation detection: a review for high and low resource languages'
     year: '2024'
   sdwzJUcAAAAJ:mB3voiENLucC:
-    citations: 10
-    title: "\u2018Low resource language dataset creation, curation and classification: Setswana and Sepedi\u2014Extended abstract"
+    citations: 4
+    title: 'Low resource language dataset creation, curation and classification: Setswana and Sepedi-Extended Abstract'
     year: '2004'
   sdwzJUcAAAAJ:mVmsd5A6BfQC:
     citations: 0
@@ -150,8 +150,8 @@ papers:
     title: Experimental Comparison of Genetic Algorithm and Ant Colony Optimization to Minimize Energy in Ad-hoc Wireless Networks
     year: '2013'
   sdwzJUcAAAAJ:u5HHmVD_uO8C:
-    citations: 4
-    title: Comparing supervised learning classifiers to detect advanced fee fraud activities on internet
+    citations: 3
+    title: Comparing Supervised Learning Classifiers to Detect Advanced Fee Fraud Activities on Internet
     year: '2012'
   sdwzJUcAAAAJ:zYLM7Y9cAGgC:
     citations: 0
