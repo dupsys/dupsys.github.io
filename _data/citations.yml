@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-16'
+  last_updated: '2026-03-25'
 papers:
   sdwzJUcAAAAJ:-f6ydRqryjwC:
     citations: 3
@@ -22,7 +22,7 @@ papers:
     title: Development and Evaluation of a System for Normalizing Internet Slangs in Social Media Texts
     year: '2015'
   sdwzJUcAAAAJ:5nxA0vEk-isC:
-    citations: 60
+    citations: 61
     title: 'Investigating an approach for low resource language dataset creation, curation and classification: Setswana and sepedi'
     year: '2020'
   sdwzJUcAAAAJ:7PzlFSSx8tAC:
@@ -58,7 +58,7 @@ papers:
     title: Multimodal misinformation detection in a south african social media environment
     year: '2023'
   sdwzJUcAAAAJ:R3hNpaxXUhUC:
-    citations: 1
+    citations: 2
     title: 'Cross-lingual embedding methods and applications: A systematic review for low-resourced scenarios'
     year: '2025'
   sdwzJUcAAAAJ:RHpTSmoSYBkC:
@@ -122,9 +122,13 @@ papers:
     title: Maize Disease Detection using Deep Learning Models
     year: '2025'
   sdwzJUcAAAAJ:hFOr9nPyWt4C:
-    citations: 8
+    citations: 9
     title: 'Misinformation detection: a review for high and low resource languages'
     year: '2024'
+  sdwzJUcAAAAJ:j3f4tGmQtD8C:
+    citations: 0
+    title: Digital Forensic Readiness to Mitigate Insider Threats in the SaaS Cloud Environment
+    year: '2025'
   sdwzJUcAAAAJ:mB3voiENLucC:
     citations: 5
     title: 'Low resource language dataset creation, curation and classification: Setswana and Sepedi-Extended Abstract'
@@ -134,7 +138,7 @@ papers:
     title: PEDI
     year: '2020'
   sdwzJUcAAAAJ:qUcmZB5y_30C:
-    citations: 14
+    citations: 16
     title: Fine-tuning retrieval-augmented generation with an auto-regressive language model for sentiment analysis in financial reviews
     year: '2024'
   sdwzJUcAAAAJ:qjMakFHDy7sC:
