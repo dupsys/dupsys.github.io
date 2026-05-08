@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-03-25'
+  last_updated: '2026-05-08'
 papers:
   sdwzJUcAAAAJ:-f6ydRqryjwC:
-    citations: 3
+    citations: 4
     title: Cacao Plant Disease Detection and Classification
     year: '2025'
   sdwzJUcAAAAJ:0EnyYjriUFMC:
@@ -26,11 +26,11 @@ papers:
     title: 'Investigating an approach for low resource language dataset creation, curation and classification: Setswana and sepedi'
     year: '2020'
   sdwzJUcAAAAJ:7PzlFSSx8tAC:
-    citations: 25
+    citations: 29
     title: ChatGPT as a text annotation tool to evaluate sentiment analysis on south African financial institutions
     year: '2024'
   sdwzJUcAAAAJ:9ZlFYXVOiuMC:
-    citations: 0
+    citations: 1
     title: 'Financial Inclusion in Sub-Saharan Emerging Markets: The Application of Deep Learning to Improve Determinants'
     year: '2023'
   sdwzJUcAAAAJ:9yKSN-GCB0IC:
@@ -54,7 +54,7 @@ papers:
     title: 'Masakhane Web: A Machine Translation Platform for African Languages'
     year: '2023'
   sdwzJUcAAAAJ:QIV2ME_5wuYC:
-    citations: 2
+    citations: 3
     title: Multimodal misinformation detection in a south african social media environment
     year: '2023'
   sdwzJUcAAAAJ:R3hNpaxXUhUC:
@@ -98,7 +98,7 @@ papers:
     title: Feature Selection and Support Vector Machine hyper parameter optimization for spam detection
     year: '2016'
   sdwzJUcAAAAJ:Zph67rFs4hoC:
-    citations: 11
+    citations: 12
     title: Investigating statistical and machine learning techniques to improve the credit approval process in developing countries
     year: '2021'
   sdwzJUcAAAAJ:aqlVkmm33-oC:
@@ -122,7 +122,7 @@ papers:
     title: Maize Disease Detection using Deep Learning Models
     year: '2025'
   sdwzJUcAAAAJ:hFOr9nPyWt4C:
-    citations: 9
+    citations: 10
     title: 'Misinformation detection: a review for high and low resource languages'
     year: '2024'
   sdwzJUcAAAAJ:j3f4tGmQtD8C:
@@ -149,6 +149,10 @@ papers:
     citations: 1
     title: Zero-Shot Transfer Learning using Affix and Correlated Cross-Lingual Embeddings.
     year: '2023'
+  sdwzJUcAAAAJ:r0BpntZqJG4C:
+    citations: 0
+    title: An End-to-End Deep Learning Model for Recommender Systems
+    year: Unknown Year
   sdwzJUcAAAAJ:u-x6o8ySG0sC:
     citations: 2
     title: Experimental Comparison of Genetic Algorithm and Ant Colony Optimization to Minimize Energy in Ad-hoc Wireless Networks
