@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-08'
+  last_updated: '2026-05-20'
 papers:
   sdwzJUcAAAAJ:-f6ydRqryjwC:
     citations: 4
@@ -26,7 +26,7 @@ papers:
     title: 'Investigating an approach for low resource language dataset creation, curation and classification: Setswana and sepedi'
     year: '2020'
   sdwzJUcAAAAJ:7PzlFSSx8tAC:
-    citations: 29
+    citations: 31
     title: ChatGPT as a text annotation tool to evaluate sentiment analysis on south African financial institutions
     year: '2024'
   sdwzJUcAAAAJ:9ZlFYXVOiuMC:
@@ -66,7 +66,7 @@ papers:
     title: that Perpetuate Xenophobic Attitudes and Hate Speech Narratives
     year: '2025'
   sdwzJUcAAAAJ:TQgYirikUcIC:
-    citations: 0
+    citations: 1
     title: 'AI for ESG Governance in South Africa: A Systematic Review of Financial Intelligence Approaches'
     year: Unknown Year
   sdwzJUcAAAAJ:Tyk-4Ss8FVUC:
@@ -82,7 +82,7 @@ papers:
     title: Identifying Advanced Fee Fraud Activities on Internet Using Machine Learning Algorithms
     year: '2010'
   sdwzJUcAAAAJ:W7OEmFMy1HYC:
-    citations: 38
+    citations: 39
     title: Feature selection and support vector machine hyper-parameter optimisation for spam detection
     year: '2016'
   sdwzJUcAAAAJ:Wp0gIr-vW9MC:
@@ -118,7 +118,7 @@ papers:
     title: Semi-supervised probabilistics approach for normalising informal short text messages
     year: '2017'
   sdwzJUcAAAAJ:hC7cP41nSMkC:
-    citations: 0
+    citations: 1
     title: Maize Disease Detection using Deep Learning Models
     year: '2025'
   sdwzJUcAAAAJ:hFOr9nPyWt4C:
@@ -138,7 +138,7 @@ papers:
     title: PEDI
     year: '2020'
   sdwzJUcAAAAJ:qUcmZB5y_30C:
-    citations: 16
+    citations: 17
     title: Fine-tuning retrieval-augmented generation with an auto-regressive language model for sentiment analysis in financial reviews
     year: '2024'
   sdwzJUcAAAAJ:qjMakFHDy7sC:
