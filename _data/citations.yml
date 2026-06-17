@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-05-20'
+  last_updated: '2026-06-17'
 papers:
   sdwzJUcAAAAJ:-f6ydRqryjwC:
-    citations: 4
+    citations: 5
     title: Cacao Plant Disease Detection and Classification
     year: '2025'
   sdwzJUcAAAAJ:0EnyYjriUFMC:
@@ -17,16 +17,12 @@ papers:
     citations: 6
     title: 'Low resource language dataset creation, curation and classification: Setswana and Sepedi'
     year: '2020'
-  sdwzJUcAAAAJ:4JMBOYKVnBMC:
-    citations: 0
-    title: Development and Evaluation of a System for Normalizing Internet Slangs in Social Media Texts
-    year: '2015'
   sdwzJUcAAAAJ:5nxA0vEk-isC:
-    citations: 61
+    citations: 62
     title: 'Investigating an approach for low resource language dataset creation, curation and classification: Setswana and sepedi'
     year: '2020'
   sdwzJUcAAAAJ:7PzlFSSx8tAC:
-    citations: 31
+    citations: 34
     title: ChatGPT as a text annotation tool to evaluate sentiment analysis on south African financial institutions
     year: '2024'
   sdwzJUcAAAAJ:9ZlFYXVOiuMC:
@@ -54,7 +50,7 @@ papers:
     title: 'Masakhane Web: A Machine Translation Platform for African Languages'
     year: '2023'
   sdwzJUcAAAAJ:QIV2ME_5wuYC:
-    citations: 3
+    citations: 4
     title: Multimodal misinformation detection in a south african social media environment
     year: '2023'
   sdwzJUcAAAAJ:R3hNpaxXUhUC:
@@ -74,7 +70,7 @@ papers:
     title: Filtering of mobile short messaging service communication using latent Dirichlet allocation with social network analysis
     year: '2014'
   sdwzJUcAAAAJ:ULOm3_A8WrAC:
-    citations: 23
+    citations: 24
     title: Post-authorship attribution using regularized deep neural network
     year: '2022'
   sdwzJUcAAAAJ:UeHWp8X0CEIC:
@@ -82,7 +78,7 @@ papers:
     title: Identifying Advanced Fee Fraud Activities on Internet Using Machine Learning Algorithms
     year: '2010'
   sdwzJUcAAAAJ:W7OEmFMy1HYC:
-    citations: 39
+    citations: 40
     title: Feature selection and support vector machine hyper-parameter optimisation for spam detection
     year: '2016'
   sdwzJUcAAAAJ:Wp0gIr-vW9MC:
@@ -122,15 +118,19 @@ papers:
     title: Maize Disease Detection using Deep Learning Models
     year: '2025'
   sdwzJUcAAAAJ:hFOr9nPyWt4C:
-    citations: 10
+    citations: 12
     title: 'Misinformation detection: a review for high and low resource languages'
     year: '2024'
+  sdwzJUcAAAAJ:iH-uZ7U-co4C:
+    citations: 0
+    title: 'AfriScience-MT: Towards Decolonizing Science in Africa through Text Translation'
+    year: '2026'
   sdwzJUcAAAAJ:j3f4tGmQtD8C:
     citations: 0
     title: Digital Forensic Readiness to Mitigate Insider Threats in the SaaS Cloud Environment
     year: '2025'
   sdwzJUcAAAAJ:mB3voiENLucC:
-    citations: 5
+    citations: 4
     title: 'Low resource language dataset creation, curation and classification: Setswana and Sepedi-Extended Abstract'
     year: '2004'
   sdwzJUcAAAAJ:mVmsd5A6BfQC:
@@ -164,4 +164,4 @@ papers:
   sdwzJUcAAAAJ:zYLM7Y9cAGgC:
     citations: 0
     title: Effective and Efficient (Dis) similarity and Retrieval Algorithms Used to Access Large Image Databases
-    year: '2012'
+    year: Unknown Year
