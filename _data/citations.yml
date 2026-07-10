@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-17'
+  last_updated: '2026-07-10'
 papers:
   sdwzJUcAAAAJ:-f6ydRqryjwC:
     citations: 5
@@ -18,15 +18,15 @@ papers:
     title: 'Low resource language dataset creation, curation and classification: Setswana and Sepedi'
     year: '2020'
   sdwzJUcAAAAJ:5nxA0vEk-isC:
-    citations: 62
+    citations: 64
     title: 'Investigating an approach for low resource language dataset creation, curation and classification: Setswana and sepedi'
     year: '2020'
   sdwzJUcAAAAJ:7PzlFSSx8tAC:
-    citations: 34
+    citations: 37
     title: ChatGPT as a text annotation tool to evaluate sentiment analysis on south African financial institutions
     year: '2024'
   sdwzJUcAAAAJ:9ZlFYXVOiuMC:
-    citations: 1
+    citations: 2
     title: 'Financial Inclusion in Sub-Saharan Emerging Markets: The Application of Deep Learning to Improve Determinants'
     year: '2023'
   sdwzJUcAAAAJ:9yKSN-GCB0IC:
@@ -46,15 +46,15 @@ papers:
     title: Call Centre Shift Schedule Optimisation using Local Search Heuristics
     year: '2021'
   sdwzJUcAAAAJ:M3ejUd6NZC8C:
-    citations: 3
-    title: 'Masakhane Web: A Machine Translation Platform for African Languages'
+    citations: 4
+    title: 'Masakhane Web: A machine translation platform for African languages'
     year: '2023'
   sdwzJUcAAAAJ:QIV2ME_5wuYC:
     citations: 4
     title: Multimodal misinformation detection in a south african social media environment
     year: '2023'
   sdwzJUcAAAAJ:R3hNpaxXUhUC:
-    citations: 2
+    citations: 4
     title: 'Cross-lingual embedding methods and applications: A systematic review for low-resourced scenarios'
     year: '2025'
   sdwzJUcAAAAJ:RHpTSmoSYBkC:
@@ -70,7 +70,7 @@ papers:
     title: Filtering of mobile short messaging service communication using latent Dirichlet allocation with social network analysis
     year: '2014'
   sdwzJUcAAAAJ:ULOm3_A8WrAC:
-    citations: 24
+    citations: 25
     title: Post-authorship attribution using regularized deep neural network
     year: '2022'
   sdwzJUcAAAAJ:UeHWp8X0CEIC:
@@ -118,7 +118,7 @@ papers:
     title: Maize Disease Detection using Deep Learning Models
     year: '2025'
   sdwzJUcAAAAJ:hFOr9nPyWt4C:
-    citations: 12
+    citations: 13
     title: 'Misinformation detection: a review for high and low resource languages'
     year: '2024'
   sdwzJUcAAAAJ:iH-uZ7U-co4C:
@@ -138,7 +138,7 @@ papers:
     title: PEDI
     year: '2020'
   sdwzJUcAAAAJ:qUcmZB5y_30C:
-    citations: 17
+    citations: 19
     title: Fine-tuning retrieval-augmented generation with an auto-regressive language model for sentiment analysis in financial reviews
     year: '2024'
   sdwzJUcAAAAJ:qjMakFHDy7sC:
@@ -164,4 +164,4 @@ papers:
   sdwzJUcAAAAJ:zYLM7Y9cAGgC:
     citations: 0
     title: Effective and Efficient (Dis) similarity and Retrieval Algorithms Used to Access Large Image Databases
-    year: Unknown Year
+    year: '2012'
