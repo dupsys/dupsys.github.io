@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-07-10'
+  last_updated: '2026-07-22'
 papers:
   sdwzJUcAAAAJ:-f6ydRqryjwC:
-    citations: 5
+    citations: 6
     title: Cacao Plant Disease Detection and Classification
     year: '2025'
   sdwzJUcAAAAJ:0EnyYjriUFMC:
@@ -70,7 +70,7 @@ papers:
     title: Filtering of mobile short messaging service communication using latent Dirichlet allocation with social network analysis
     year: '2014'
   sdwzJUcAAAAJ:ULOm3_A8WrAC:
-    citations: 25
+    citations: 26
     title: Post-authorship attribution using regularized deep neural network
     year: '2022'
   sdwzJUcAAAAJ:UeHWp8X0CEIC:
@@ -118,7 +118,7 @@ papers:
     title: Maize Disease Detection using Deep Learning Models
     year: '2025'
   sdwzJUcAAAAJ:hFOr9nPyWt4C:
-    citations: 13
+    citations: 12
     title: 'Misinformation detection: a review for high and low resource languages'
     year: '2024'
   sdwzJUcAAAAJ:iH-uZ7U-co4C:
@@ -127,7 +127,7 @@ papers:
     year: '2026'
   sdwzJUcAAAAJ:j3f4tGmQtD8C:
     citations: 0
-    title: Digital Forensic Readiness to Mitigate Insider Threats in the SaaS Cloud Environment
+    title: Digital forensic readiness to mitigate insider threats in the SaaS cloud environment
     year: '2025'
   sdwzJUcAAAAJ:mB3voiENLucC:
     citations: 4
@@ -164,4 +164,4 @@ papers:
   sdwzJUcAAAAJ:zYLM7Y9cAGgC:
     citations: 0
     title: Effective and Efficient (Dis) similarity and Retrieval Algorithms Used to Access Large Image Databases
-    year: '2012'
+    year: Unknown Year
