@@ -58,7 +58,7 @@ I earned my PhD in Computer Science from the University of the Witwatersrand, Jo
   </div>
   <div class="focus-card">
     <h3><i class="fa-solid fa-language"></i> Reliable multilingual language technologies</h3>
-    <p>Open data, models, and evaluation for low-resource and African languages, so that AI systems work fairly and dependably beyond English. This includes <a href="https://app.afirkallm.org/#purpose">Afirka LLM</a> and AfriGemma, which I co-lead as Co-PI, and the <a href="https://aclanthology.org/2026.emnlp-main.757/">AfriScience-MT</a> translation work (EMNLP 2026).</p>
+    <p>Open data, models, and evaluation for low-resource and African languages, so that AI systems work fairly and dependably beyond English. This includes <a href="https://app.afirkallm.org/#purpose">Afirka LLM</a>, which I co-lead as Co-PI, and the <a href="https://aclanthology.org/2026.emnlp-main.757/">AfriScience-MT</a> translation work (EMNLP 2026).</p>
   </div>
 </div>
 
