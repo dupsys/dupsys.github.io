@@ -1,78 +1,616 @@
 {
   "basics": {
-    "name": "Abiodun Modupe",
-    "label": "Lecturer & Coordinator/Research Scientist",
-    "image": "",
+    "name": "Abiodun Modupe, Ph.D.",
+    "label": "Computer Science · Artificial Intelligence · Cybersecurity · Natural Language Processing",
     "email": "abiodunmodupe@gmail.com",
-    "phone": "+1 (832) 774-3303",
+    "phone": "+1-832-774-3303",
     "url": "https://dupsys.github.io",
-    "summary": "Dr. Abiodun Modupe earned his Ph.D. from the University of the Witwatersrand, Johannesburg, South Africa, and conducts research at the intersection of Artificial Intelligence (including natural language processing), Computer Vision, Cybersecurity, and Health Informatics. His work focuses on designing data-driven and vision-enabled intelligent systems, leveraging large language models and big data methodologies to generate impactful insights and optimize system performance. His research applications span digital security, healthcare technologies, and environmental monitoring.",
+    "summary": "Researcher in trustworthy and responsible AI, AI for cybersecurity and digital forensics, secure agentic systems, and multilingual and low-resource NLP. U.S. Permanent Resident, authorized to work in the United States without employer sponsorship. Based in Richmond, Texas.",
     "location": {
-      "address": "San Ricci CT",
-      "postalCode": "77406",
       "city": "Richmond",
-      "countryCode": "US",
-      "region": "Texas"
+      "region": "Texas",
+      "countryCode": "US"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "dupsysabbey",
-        "url": "https://twitter.com/dupsysabbey"
+        "network": "GitHub",
+        "username": "dupsys",
+        "url": "https://github.com/dupsys"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "abiodunmodupe",
+        "url": "https://www.linkedin.com/in/abiodunmodupe"
       }
     ]
   },
-  "work": [
+  "interests": [
     {
-      "name": "University of Pretoria, Pretoria. South African",
-      "position": "Lecturer and Coordinator/Researcher Scientist",
-      "url": "https://cs.up.ac.za",
-      "startDate": "2019-11-01",
-      "endDate": "",
-      "summary": "Conduct research at the intersection of AI, with a focus on NLP, computer vision, and cybersecurity, and have 6+ years of experience providing technical leadership in machine learning and data infrastructure. I have a proven track record of managing million-dollar AI research initiatives and leading or collaborating with teams of researchers to develop innovative ML systems for NLP challenges.",
-      "highlights": [
-        "Led curriculum design, supervised research projects, and served as Big Data degree coordinator.",
-        "Published multiple papers in top-tier NLP conferences and journals.",
-        "Developed multiple funding proposals for research projects."
+      "name": "Research Interests",
+      "keywords": [
+        "Trustworthy & responsible AI",
+        "Multilingual & low-resource NLP",
+        "AI for cybersecurity & digital forensics",
+        "Misinformation detection",
+        "Explainability & evaluation of AI",
+        "Security & reliability of agentic AI"
+      ]
+    },
+    {
+      "name": "Teaching Areas",
+      "keywords": [
+        "AI",
+        "Machine learning",
+        "Deep learning",
+        "NLP",
+        "Data mining",
+        "Computer security",
+        "Operating systems",
+        "Software engineering",
+        "Programming",
+        "Capstone projects"
       ]
     }
   ],
-  "eduction": [
+  "education": [
     {
-      "organization": "University of the Witwatersrand",
-      "location": "Johannesburg, South Africa",
-      "position": "PhD in Computer Science",
+      "institution": "University of the Witwatersrand, South Africa",
       "url": "https://www.wits.ac.za/csam/",
-      "area": "Natural Language Processing and Cybersecurity",
-      "studyType": "PhD",
-      "startDate": "2018-07-01",
-      "endDate": "2024-07-07"
+      "area": "Thesis: Regularized Deep Neural Network for Post-Authorship Attribution",
+      "studyType": "Ph.D., Computer Science",
+      "startDate": "2018",
+      "endDate": "2024",
+      "courses": [
+        "Supervisors: Prof. Turgay Celik and Prof. Vukosi Marivate"
+      ]
+    },
+    {
+      "institution": "Tshwane University of Technology, South Africa",
+      "url": "https://www.tut.ac.za/",
+      "area": "Dissertation: Intelligent Identification of Advanced Fee Fraud Activities on the Internet",
+      "studyType": "Master of IT (Computer Science)",
+      "startDate": "2009",
+      "endDate": "2011",
+      "courses": [
+        "Supervisors: Prof. O. O. Olugbara and Prof. S. O. Ojo"
+      ]
+    },
+    {
+      "institution": "Obafemi Awolowo University, Nigeria",
+      "url": "https://oauife.edu.ng/",
+      "area": "",
+      "studyType": "B.Sc. (Hons), Computer Science",
+      "startDate": "",
+      "endDate": "1997",
+      "courses": []
+    }
+  ],
+  "work": [
+    {
+      "name": "Department of Computer Science, University of Pretoria",
+      "position": "Lecturer & MIT Big Data Science Program Coordinator",
+      "url": "https://www.cs.up.ac.za/",
+      "startDate": "2019",
+      "endDate": "",
+      "summary": "Teaching remotely from the United States since 2026 while continuing program coordination and student advising.",
+      "highlights": [
+        "Courses: COS760 Natural Language Processing; COS781 Data Mining; COS801 Deep Learning; MIT801 Machine and Statistical Learning; MIT808 Data Science Capstone; MIT807 Mini-Dissertation (module coordinator).",
+        "Coordinate the part-time MIT Big Data Science program: admissions, orientation, progression, timetabling, capstone and mini-dissertation processes.",
+        "Advise annual cohorts of approximately 45–50 students.",
+        "Completed supervision: 10 MIT mini-dissertations, 4 M.Sc. dissertations, and 1 Ph.D.; current doctoral (co-)supervision at the University of Pretoria and North-West University."
+      ]
+    },
+    {
+      "name": "Richmond, TX",
+      "position": "Dupson LLC (AI consultancy)",
+      "url": "",
+      "startDate": "2026",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Data Science for Social Impact (DSFSI), University of Pretoria",
+      "position": "Research Fellow",
+      "url": "https://www.dsfsi.co.za/",
+      "startDate": "2021",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Stimson Center",
+      "position": "Responsible AI Fellow",
+      "url": "https://www.stimson.org/project/responsible-ai-fellowship/fellows/",
+      "startDate": "2024",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "University of Pretoria",
+      "position": "AfriDSAI Fellow",
+      "url": "https://www.up.ac.za/afridsai",
+      "startDate": "2025",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Council for Scientific and Industrial Research (CSIR), Pretoria",
+      "position": "Visiting Researcher",
+      "url": "",
+      "startDate": "2018",
+      "endDate": "2019",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "University of the Witwatersrand",
+      "position": "Teaching Assistant",
+      "url": "",
+      "startDate": "2017",
+      "endDate": "2018",
+      "summary": "",
+      "highlights": [
+        "COMS7047A Adaptive Computation and Machine Learning."
+      ]
+    },
+    {
+      "name": "University of South Africa",
+      "position": "Independent Contractor / Distance-Learning Teaching Assistant",
+      "url": "",
+      "startDate": "2013",
+      "endDate": "2017",
+      "summary": "",
+      "highlights": [
+        "COS2621 Computer Organization (e-tutor)."
+      ]
+    },
+    {
+      "name": "Tshwane University of Technology",
+      "position": "Lecturer (Contract)",
+      "url": "",
+      "startDate": "2011",
+      "endDate": "2017",
+      "summary": "",
+      "highlights": [
+        "ISC216D Information Security; ORS216D Operating Systems; RRS108G Research Project."
+      ]
+    },
+    {
+      "name": "Tshwane University of Technology",
+      "position": "Graduate Research/Teaching Assistant",
+      "url": "",
+      "startDate": "2009",
+      "endDate": "2011",
+      "summary": "",
+      "highlights": [
+        "Discrete Structures; Principles of Programming; Advanced Object-Oriented Programming."
+      ]
+    },
+    {
+      "name": "First City Monument Bank (FCMB), Lagos, Nigeria",
+      "position": "Systems Engineer",
+      "url": "",
+      "startDate": "2004",
+      "endDate": "2008",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Alpha-Beta Consulting, Lagos, Nigeria",
+      "position": "Software Developer",
+      "url": "",
+      "startDate": "1999",
+      "endDate": "2004",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "projects": [
+    {
+      "name": "AI4D African Languages Lab (IDRC/FCDO)",
+      "summary": "Principal Investigator (with Vukosi Marivate); CAD 1,070,500",
+      "startDate": "2024",
+      "endDate": "",
+      "url": "https://www.ai4d.ai/projects/ai4d-african-languages-lab",
+      "highlights": [
+        "African-language NLP data and evaluation, capacity building, and equitable access, licensing, and policy."
+      ]
+    },
+    {
+      "name": "AfriGemma (Google Research Fund)",
+      "summary": "Co-PI; USD 200,000",
+      "startDate": "2025",
+      "endDate": "2025",
+      "url": "",
+      "highlights": [
+        "Adapting open Gemma models to African languages; open data, model, and tooling outputs."
+      ]
+    },
+    {
+      "name": "Afirka LLM",
+      "summary": "Co-PI",
+      "startDate": "",
+      "endDate": "",
+      "url": "https://app.afirkallm.org/#purpose",
+      "highlights": [
+        "Open data and models for African languages, DSFSI, University of Pretoria."
+      ]
+    },
+    {
+      "name": "Transaction Capital: Vehicle Inspection",
+      "summary": "Research project with M.Sc. sponsorship; USD 60,000",
+      "startDate": "2022",
+      "endDate": "2024",
+      "url": "",
+      "highlights": []
+    },
+    {
+      "name": "Google AI Research: Cross-Lingual Modelling",
+      "summary": "Research support with M.Sc. sponsorship; USD 25,000",
+      "startDate": "2022",
+      "endDate": "2023",
+      "url": "",
+      "highlights": []
+    },
+    {
+      "name": "Google exploreCSR Program",
+      "summary": "USD 18,000",
+      "startDate": "2023",
+      "endDate": "2023",
+      "url": "",
+      "highlights": []
+    },
+    {
+      "name": "Google Cloud Research Credits",
+      "summary": "USD 10,000",
+      "startDate": "2022",
+      "endDate": "2022",
+      "url": "",
+      "highlights": []
+    },
+    {
+      "name": "Mozilla Open-Source Support Award",
+      "summary": "Co-PI share USD 3,000 of USD 10,000",
+      "startDate": "2021",
+      "endDate": "2021",
+      "url": "",
+      "highlights": []
+    },
+    {
+      "name": "AWS Research Credits",
+      "summary": "USD 5,000",
+      "startDate": "2018",
+      "endDate": "2018",
+      "url": "",
+      "highlights": []
     }
   ],
   "awards": [
     {
+      "title": "Google Research Travel Grant, IEEE SMC 2023",
+      "date": "2023",
+      "awarder": "Google",
+      "summary": "USD 3,000"
+    },
+    {
+      "title": "IEEE SMC Conference Travel Grant",
+      "date": "2023",
+      "awarder": "IEEE SMC",
+      "summary": "USD 500"
+    },
+    {
+      "title": "SIT Research Grant Award (shared third place)",
+      "date": "2023",
+      "awarder": "University of Pretoria",
+      "summary": "ZAR 45,000"
+    },
+    {
+      "title": "DSI–CSIR Inter-Bursary Support Programme",
+      "date": "2018-2023",
+      "awarder": "DSI / CSIR",
+      "summary": "ZAR 360,000"
+    },
+    {
+      "title": "Black in AI Travel Grants",
+      "date": "2017-2019",
+      "awarder": "Black in AI Workshop at NeurIPS",
+      "summary": ""
+    },
+    {
       "title": "Best Student Paper Award",
-      "date": "2013-08-27",
-      "awarder": "International Conference of Information Security and Internet Engineering (IAENG 2013)",
-      "url": "",
-      "summary": "The paper titled: Investigating Topic Models for Mobile Short Messaging Service Communication Filtering."
+      "date": "2013",
+      "awarder": "ICSIE, World Congress on Engineering, London",
+      "summary": "Investigating Topic Models for Mobile Short Messaging Service Communication Filtering"
+    },
+    {
+      "title": "CSIR/DSI Inter-Bursary Support Programme",
+      "date": "2009-2011",
+      "awarder": "CSIR / DSI",
+      "summary": "ZAR 96,000"
     }
   ],
-
   "publications": [
     {
+      "name": "Transformers for sign language processing: A survey of spatio-temporal modeling approaches, challenges, and research gaps",
+      "publisher": "Intelligent Systems with Applications, vol. 31, Art. 200723",
+      "releaseDate": "2026",
+      "url": "https://doi.org/10.1016/j.iswa.2026.200723",
+      "summary": "T. Sindane, V. Marivate, A. Modupe, and H. Combrink"
+    },
+    {
+      "name": "AfriScience-MT: Towards Decolonizing Science in Africa through Text Translation",
+      "publisher": "Proceedings of EMNLP 2026, Budapest, Hungary, pp. 17506–17555",
+      "releaseDate": "2026",
+      "url": "https://aclanthology.org/2026.emnlp-main.757/",
+      "summary": "I. Abdulmumin, T. Gwadabe, S. H. Muhammad, D. I. Adelani, N. Khalo, I. S. Ahmad, A. Modupe, et al."
+    },
+    {
+      "name": "Responsible AI in the Global South: An Ontology-Based Approach with Automated Policy Acquisition and NLP-Driven Dimension Scoring",
+      "publisher": "SACAIR 2026, accepted for Springer CCIS",
+      "releaseDate": "2026",
+      "url": "",
+      "summary": "A. Modupe et al."
+    },
+    {
+      "name": "Digital Forensic Readiness to Mitigate Insider Threats in the SaaS Cloud Environment",
+      "publisher": "Proceedings of ICCWS 2026, pp. 427–437",
+      "releaseDate": "2026",
+      "url": "https://doi.org/10.34190/iccws.21.1.4508",
+      "summary": "G. Shoderu, S. Baror, A. Modupe, and S. Makura"
+    },
+    {
       "name": "Cross-lingual embedding methods and applications: A systematic review for low-resourced scenarios",
-      "publisher": "Natural Language Processing Journal",
+      "publisher": "Natural Language Processing Journal, vol. 12",
       "releaseDate": "2025",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2949719125000330",
-      "summary": "This study presents a systematic review of cross-lingual transfer learning (CLTL) techniques, focusing on their foundations, applications, evaluation methods, language coverage, and recent advances, and highlighting future research directions for low-resource NLP."
+      "url": "https://doi.org/10.1016/j.nlp.2025.100157",
+      "summary": "T. Sindane, V. Marivate, and A. Modupe"
     },
     {
       "name": "Mafoko: Structuring and Building Open Multilingual Terminologies for South African NLP",
-      "publisher": "Proceedings of the Sixth Workshop on Resources for African Indigenous Languages (RAIL), Co-located with DHASA2025",
+      "publisher": "Journal of the Digital Humanities Association of Southern Africa, vol. 6, no. 2",
       "releaseDate": "2025",
-      "url": "https://dh2025.digitalhumanities.org.za/proceedings/",
-      "summary": "The study introduces Mafoko, a RAG-based framework that consolidates South Africa’s fragmented terminology into open datasets, improving translation accuracy and advancing equitable multilingual NLP technologies that better showcase the country’s linguistic diversity."
+      "url": "https://arxiv.org/abs/2508.03529",
+      "summary": "V. Marivate, I. J. Dzingirai, F. Banda, R. Lastrucci, T. Sindane, K. Madumo, K. Olaleye, A. Modupe, U. Netshifhefhe, H. Combrink, and M. Nakeng"
+    },
+    {
+      "name": "Digital Forensic Readiness to Mitigate Insider Threats in the SaaS Cloud Environment",
+      "publisher": "The Indonesian Journal of Computer Science, vol. 14, no. 6, pp. 10287–10300",
+      "releaseDate": "2025",
+      "url": "https://doi.org/10.33022/ijcs.v14i6.5059",
+      "summary": "G. Shoderu, S. O. Baror, S. Makura, and A. Modupe"
+    },
+    {
+      "name": "An End-to-End Deep Learning Model for Recommender Systems",
+      "publisher": "SACAIR 2025, Springer Nature, pp. 64–81",
+      "releaseDate": "2025",
+      "url": "",
+      "summary": "A. Tegene, V. Marivate, M. Banda, A. Modupe, V. Rakotonarivo, and M. Nchabeleng"
+    },
+    {
+      "name": "Identification of Social Media Users that Perpetuate Xenophobic Attitudes and Hate Speech Narratives in South Africa",
+      "publisher": "SACAIR, Springer, pp. 254–271",
+      "releaseDate": "2025",
+      "url": "https://doi.org/10.1007/978-3-032-11733-5_16",
+      "summary": "C. du Plessis, M. du Plessis, K. R. Mabokela, A. Modupe, and V. Marivate"
+    },
+    {
+      "name": "Misinformation Detection: A Review for High and Low-Resource Languages",
+      "publisher": "Journal of Information Systems and Informatics, vol. 6, no. 4, pp. 2892–2922",
+      "releaseDate": "2024",
+      "url": "https://doi.org/10.51519/journalisi.v6i4.931",
+      "summary": "S. Rananga, B. Isong, A. Modupe, and V. Marivate"
+    },
+    {
+      "name": "Fine-Tuning Retrieval-Augmented Generation with an Auto-Regressive Language Model for Sentiment Analysis in Financial Reviews",
+      "publisher": "Applied Sciences, vol. 14, no. 23, 10782",
+      "releaseDate": "2024",
+      "url": "https://doi.org/10.3390/app142310782",
+      "summary": "M. Mathebula, A. Modupe, and V. Marivate"
+    },
+    {
+      "name": "ChatGPT as a Text Annotation Tool to Evaluate Sentiment Analysis on South African Financial Institutions",
+      "publisher": "IEEE Access, vol. 12, pp. 144017–144043",
+      "releaseDate": "2024",
+      "url": "https://doi.org/10.1109/ACCESS.2024.3464374",
+      "summary": "M. Mathebula, A. Modupe, and V. Marivate"
+    },
+    {
+      "name": "Integrating Bidirectional Long Short-Term Memory with Subword Embedding for Authorship Attribution",
+      "publisher": "IEEE International Conference on Systems, Man, and Cybernetics (SMC), pp. 1910–1917",
+      "releaseDate": "2023",
+      "url": "https://doi.org/10.1109/SMC53992.2023.10393898",
+      "summary": "A. Modupe, T. Celik, V. Marivate, and O. O. Olugbara"
+    },
+    {
+      "name": "Financial Inclusion in Sub-Saharan Emerging Markets: The Application of Deep Learning to Improve Determinants",
+      "publisher": "SACAIR, Springer, pp. 219–236",
+      "releaseDate": "2023",
+      "url": "",
+      "summary": "J. S. Dlamini, L. Marshall, and A. Modupe"
+    },
+    {
+      "name": "Multimodal Misinformation Detection in a South African Social Media Environment",
+      "publisher": "SACAIR, Springer, pp. 285–299",
+      "releaseDate": "2023",
+      "url": "https://doi.org/10.1007/978-3-031-49002-6_19",
+      "summary": "A. De Jager, V. Marivate, and A. Modupe"
+    },
+    {
+      "name": "Fine-Tuning Multilingual Pretrained African Language Models",
+      "publisher": "4th Workshop on African Natural Language Processing (AfricaNLP)",
+      "releaseDate": "2023",
+      "url": "",
+      "summary": "R. L. Myoya, F. Banda, V. Marivate, and A. Modupe"
+    },
+    {
+      "name": "Assessing the Feasibility of Identifying Unique Features of Wildlife from a Drone’s Perspective",
+      "publisher": "SACAIR 2023 (workshop)",
+      "releaseDate": "2023",
+      "url": "",
+      "summary": "R. Myoya, L. Matojane, V. Marivate, A. Modupe, and A. Myburgh"
+    },
+    {
+      "name": "Post-Authorship Attribution Using Regularized Deep Neural Network",
+      "publisher": "Applied Sciences, vol. 12, no. 15, 7518",
+      "releaseDate": "2022",
+      "url": "https://doi.org/10.3390/app12157518",
+      "summary": "A. Modupe, T. Celik, V. Marivate, and O. O. Olugbara"
+    },
+    {
+      "name": "Call Centre Shift Schedule Optimisation using Local Search Heuristics",
+      "publisher": "IEEE AFRICON, pp. 1–6",
+      "releaseDate": "2021",
+      "url": "https://doi.org/10.1109/AFRICON51333.2021.9570947",
+      "summary": "L. Nthimo, T. Mokoena, A. Modupe, and V. Marivate"
+    },
+    {
+      "name": "Investigating Statistical and Machine Learning Techniques to Improve the Credit Approval Process in Developing Countries",
+      "publisher": "IEEE AFRICON, pp. 1–6",
+      "releaseDate": "2021",
+      "url": "https://doi.org/10.1109/AFRICON51333.2021.9571004",
+      "summary": "M. Lusinga, T. Mokoena, A. Modupe, and V. Marivate"
+    },
+    {
+      "name": "Investigating an Approach for Low Resource Language Dataset Creation, Curation and Classification: Setswana and Sepedi",
+      "publisher": "First Workshop on Resources for African Indigenous Languages (RAIL), pp. 15–20",
+      "releaseDate": "2020",
+      "url": "",
+      "summary": "V. Marivate, T. Sefara, V. Chabalala, K. Makhaya, T. Mokgonyane, R. Mokoena, and A. Modupe"
+    },
+    {
+      "name": "Yorùbá Gender Recognition from Speech Using Neural Networks",
+      "publisher": "6th International Conference on Soft Computing and Machine Intelligence (ISCMI), IEEE, pp. 50–55",
+      "releaseDate": "2019",
+      "url": "https://doi.org/10.1109/ISCMI47871.2019.9004376",
+      "summary": "T. J. Sefara and A. Modupe"
+    },
+    {
+      "name": "Semi-Supervised Probabilistic Approach for Normalising Informal Short Text Messages",
+      "publisher": "Conference on Information Communication Technology and Society (ICTAS), IEEE, pp. 1–8",
+      "releaseDate": "2017",
+      "url": "https://doi.org/10.1109/ICTAS.2017.7920659",
+      "summary": "A. Modupe, T. Celik, V. Marivate, and M. Diale"
+    },
+    {
+      "name": "Feature Selection and Support Vector Machine Hyper-Parameter Optimisation for Spam Detection",
+      "publisher": "PRASA-RobMech, IEEE, pp. 1–7",
+      "releaseDate": "2016",
+      "url": "https://doi.org/10.1109/RoboMech.2016.7813162",
+      "summary": "M. Diale, C. van der Walt, T. Celik, and A. Modupe"
+    },
+    {
+      "name": "Development and Evaluation of a System for Normalizing Internet Slangs in Social Media Texts",
+      "publisher": "World Congress on Engineering and Computer Science (WCECS), vol. 1, IAENG",
+      "releaseDate": "2015",
+      "url": "",
+      "summary": "A. A. Adedamola, A. Modupe, and O. J. Dehinbo"
+    },
+    {
+      "name": "Filtering of Mobile Short Messaging Service Communication Using Latent Dirichlet Allocation with Social Network Analysis",
+      "publisher": "Transactions on Engineering Technologies, Springer (book chapter)",
+      "releaseDate": "2014",
+      "url": "https://doi.org/10.1007/978-94-017-8832-8_48",
+      "summary": "A. Modupe, O. O. Olugbara, and S. O. Ojo"
+    },
+    {
+      "name": "Experimental Comparison of Genetic Algorithm and Ant Colony Optimisation to Minimise Energy in Ad-hoc Wireless Networks",
+      "publisher": "WCECS, vol. 2, IAENG",
+      "releaseDate": "2013",
+      "url": "",
+      "summary": "I. A. Modupe, O. O. Olugbara, S. O. Ojo, and A. Modupe"
+    },
+    {
+      "name": "Minimizing Energy Consumption in Wireless Ad Hoc Networks with Metaheuristics",
+      "publisher": "Procedia Computer Science, vol. 19, pp. 106–115",
+      "releaseDate": "2013",
+      "url": "https://doi.org/10.1016/j.procs.2013.06.019",
+      "summary": "I. A. Modupe, O. O. Olugbara, and A. Modupe"
+    },
+    {
+      "name": "Investigating Topic Models for Mobile Short Messaging Service Communication Filtering",
+      "publisher": "World Congress on Engineering (WCE), vol. 2, IAENG — Best Student Paper Award",
+      "releaseDate": "2013",
+      "url": "",
+      "summary": "A. Modupe, O. O. Olugbara, and S. O. Ojo"
+    },
+    {
+      "name": "Comparing Supervised Learning Classifiers to Detect Advanced Fee Fraud Activities on Internet",
+      "publisher": "Advances in Computer Science and Information Technology, Springer, pp. 87–100",
+      "releaseDate": "2012",
+      "url": "https://doi.org/10.1007/978-3-642-27317-9_10",
+      "summary": "A. Modupe, O. O. Olugbara, and S. O. Ojo"
+    },
+    {
+      "name": "Identifying Advanced Fee Fraud Activities on the Internet Using Machine Learning Algorithms",
+      "publisher": "3rd IEEE International Conference on Computational Intelligence and Industrial Application (PACIIA), pp. 240–242",
+      "releaseDate": "2010",
+      "url": "https://doi.org/10.1109/PACIIA.2010.5495084",
+      "summary": "A. Modupe, O. O. Olugbara, and S. O. Ojo"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "IEEE BigData (2026); SACAIR (2023–present); SAICSIT (2022, 2024–present)",
+      "position": "Program Committee",
+      "startDate": "2022",
+      "endDate": "",
+      "url": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "ICLR (2024); ACM CIKM (2024); LoResLM (2025); Int. J. of Intelligent Systems (2026); Discover AI (2024); Deep Learning Indaba Publication Committee (2023)",
+      "position": "Reviewer",
+      "startDate": "2023",
+      "endDate": "",
+      "url": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "University of Pretoria",
+      "position": "University Service",
+      "startDate": "2020",
+      "endDate": "2025",
+      "url": "",
+      "summary": "",
+      "highlights": [
+        "EBIT Faculty Postgraduate Committee (2023–2025)",
+        "MIT Big Data Science Selection Committee (2022–2025)",
+        "Computer Science Research Lab Technical Committee (2024–2025)",
+        "DSFSI Research Lab Committee (2020–2025)",
+        "External examiner: University of the Witwatersrand, University of Limpopo, University of Cape Town"
+      ]
+    },
+    {
+      "organization": "Black in AI Emerging Leaders in AI",
+      "position": "Mentor",
+      "startDate": "2025",
+      "endDate": "2025",
+      "url": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "Deep Learning Indaba",
+      "position": "Tutor",
+      "startDate": "2017",
+      "endDate": "2023",
+      "url": "",
+      "summary": "2017–2019 and 2023",
+      "highlights": []
+    },
+    {
+      "organization": "IEEE, ACM, ACL; Masakhane NLP community",
+      "position": "Professional Memberships",
+      "startDate": "",
+      "endDate": "",
+      "url": "",
+      "summary": "",
+      "highlights": []
     }
   ],
   "languages": [
