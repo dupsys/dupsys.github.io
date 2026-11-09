@@ -1,0 +1,26 @@
+{% assign url = page.url %}
+<nav class="app-tabbar" aria-label="Quick navigation">
+  <a href="{{ '/' | relative_url }}" class="app-tab{% if url == '/' %} active{% endif %}">
+    <i class="fa-solid fa-house"></i>
+    <span>Home</span>
+  </a>
+  <a href="{{ '/publications/' | relative_url }}" class="app-tab{% if url contains '/publications' %} active{% endif %}">
+    <i class="fa-solid fa-book-open"></i>
+    <span>Papers</span>
+  </a>
+  <a href="{{ '/projects/' | relative_url }}" class="app-tab{% if url contains '/projects' %} active{% endif %}">
+    <i class="fa-solid fa-flask"></i>
+    <span>Projects</span>
+  </a>
+  <a href="{{ '/cv/' | relative_url }}" class="app-tab{% if url contains '/cv' %} active{% endif %}">
+    <i class="fa-solid fa-id-card"></i>
+    <span>CV</span>
+  </a>
+  <a
+    href="{{ '/teaching/' | relative_url }}"
+    class="app-tab{% if url contains '/teaching' or url contains '/repositories' or url contains '/news' %} active{% endif %}"
+  >
+    <i class="fa-solid fa-chalkboard-user"></i>
+    <span>Teaching</span>
+  </a>
+</nav>

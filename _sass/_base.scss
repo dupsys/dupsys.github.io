@@ -1544,3 +1544,274 @@ mjx-container[jax="CHTML"][display="true"] {
     margin-right: 0.3rem;
   }
 }
+
+/******************************************************************************
+ * Homepage sections (desktop keeps the classic look)
+ ******************************************************************************/
+
+.focus-card {
+  h3 {
+    i {
+      display: none;
+    }
+  }
+}
+
+.bio-toggle,
+.app-tabbar {
+  display: none;
+}
+
+/******************************************************************************
+ * Phone layout: compact, app-style presentation (< 576px)
+ ******************************************************************************/
+
+@media (max-width: 575.98px) {
+  body {
+    padding-bottom: calc(68px + env(safe-area-inset-bottom));
+  }
+
+  .container {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  // Footer sits in the page flow above the tab bar instead of floating
+  footer.fixed-bottom {
+    position: static;
+    font-size: 0.75rem;
+    padding: 0.5rem 0;
+  }
+
+  // Hero: centered name, circular photo, compact subtitle
+  .post-header {
+    text-align: center;
+
+    .post-title {
+      font-size: 1.75rem;
+      margin-bottom: 0.25rem;
+    }
+
+    .desc {
+      font-size: 0.85rem;
+      line-height: 1.4;
+      color: var(--global-text-color-light);
+      margin-bottom: 0.75rem;
+    }
+  }
+
+  .profile.float-right,
+  .profile.float-left {
+    float: none !important;
+    width: 128px;
+    margin: 0 auto 0.75rem;
+
+    img {
+      border-radius: 50% !important;
+      aspect-ratio: 1 / 1;
+      object-fit: cover;
+    }
+
+    .more-info {
+      display: none;
+    }
+  }
+
+  article > .clearfix > p:first-child {
+    text-align: center;
+    font-size: 1rem;
+  }
+
+  .badge-note {
+    font-size: 0.8rem;
+    margin: 0.25rem 0 0.5rem;
+  }
+
+  // Quick links become a grid of app-style tiles
+  .quick-links {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 0.5rem;
+    margin: 0.75rem 0 1rem;
+
+    .btn {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.2rem;
+      padding: 0.6rem 0.25rem;
+      border-radius: 14px;
+      font-size: 0.8rem;
+      background-color: var(--global-card-bg-color);
+      border: 1px solid var(--global-divider-color);
+
+      i {
+        font-size: 1.3rem;
+        margin: 0;
+      }
+    }
+  }
+
+  // Bio collapses to a short preview with a "Read more" toggle
+  .bio {
+    max-height: 9.6em;
+    overflow: hidden;
+    position: relative;
+    -webkit-mask-image: linear-gradient(to bottom, #000 60%, transparent);
+    mask-image: linear-gradient(to bottom, #000 60%, transparent);
+
+    &.is-expanded {
+      max-height: none;
+      -webkit-mask-image: none;
+      mask-image: none;
+    }
+
+    p {
+      font-size: 0.95rem;
+    }
+  }
+
+  .bio-toggle {
+    display: block;
+    margin: 0.25rem auto 0.5rem;
+    background: none;
+    border: none;
+    color: var(--global-theme-color);
+    font-weight: 600;
+    font-size: 0.9rem;
+  }
+
+  // Section headings
+  article h2 {
+    font-size: 1.3rem;
+    margin-top: 1.5rem;
+  }
+
+  // Research focus as cards
+  .focus-grid {
+    display: grid;
+    gap: 0.6rem;
+  }
+
+  .focus-card {
+    background-color: var(--global-card-bg-color);
+    border: 1px solid var(--global-divider-color);
+    border-radius: 14px;
+    padding: 0.8rem 0.9rem;
+
+    h3 {
+      font-size: 1rem;
+      font-weight: 600;
+      margin: 0 0 0.3rem;
+
+      i {
+        display: inline-block;
+        color: var(--global-theme-color);
+        margin-right: 0.35rem;
+      }
+    }
+
+    p {
+      font-size: 0.875rem;
+      margin: 0;
+    }
+  }
+
+  // News: date stacked above the item
+  .news {
+    .table-responsive {
+      max-height: none !important;
+    }
+
+    tr {
+      display: block;
+      padding: 0.5rem 0;
+      border-bottom: 1px solid var(--global-divider-color);
+    }
+
+    th,
+    td {
+      display: block;
+      width: 100% !important;
+      padding: 0 !important;
+      font-size: 0.875rem;
+    }
+
+    th {
+      color: var(--global-theme-color);
+      font-size: 0.75rem;
+    }
+  }
+
+  // Publications: compact entries, no thumbnails
+  .publications {
+    ol.bibliography li {
+      margin-bottom: 0.75rem;
+
+      .abbr {
+        text-align: left;
+        margin-bottom: 0.25rem;
+
+        abbr {
+          width: auto !important;
+          padding: 0.15rem 0.5rem;
+        }
+      }
+
+      .preview {
+        display: none;
+      }
+
+      .title {
+        font-size: 0.95rem;
+      }
+
+      .author,
+      .periodical {
+        font-size: 0.8rem;
+      }
+    }
+  }
+
+  // Bottom tab bar
+  .app-tabbar {
+    display: flex;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 1040;
+    justify-content: space-around;
+    padding: 6px 4px calc(6px + env(safe-area-inset-bottom));
+    background-color: var(--global-bg-color);
+    border-top: 1px solid var(--global-divider-color);
+    box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.06);
+  }
+
+  .app-tab {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2px;
+    font-size: 0.68rem;
+    color: var(--global-text-color-light);
+    text-decoration: none;
+
+    i {
+      font-size: 1.15rem;
+    }
+
+    &.active,
+    &:hover {
+      color: var(--global-theme-color);
+      text-decoration: none;
+    }
+  }
+
+  // Back-to-top button clears the tab bar
+  #back-to-top {
+    bottom: calc(80px + env(safe-area-inset-bottom)) !important;
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Abiodun Modupe, PhD",
+  "short_name": "A. Modupe",
+  "description": "Trustworthy AI researcher: AI security, digital forensics, secure agentic systems, and multilingual language technologies.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#b509ac",
+  "icons": [
+    { "src": "/assets/img/app/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/assets/img/app/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

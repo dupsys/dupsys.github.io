@@ -60,9 +60,7 @@
       "studyType": "Ph.D., Computer Science",
       "startDate": "2018",
       "endDate": "2024",
-      "courses": [
-        "Supervisors: Prof. Turgay Celik and Prof. Vukosi Marivate"
-      ]
+      "courses": ["Supervisors: Prof. Turgay Celik and Prof. Vukosi Marivate"]
     },
     {
       "institution": "Tshwane University of Technology, South Africa",
@@ -71,9 +69,7 @@
       "studyType": "Master of IT (Computer Science)",
       "startDate": "2009",
       "endDate": "2011",
-      "courses": [
-        "Supervisors: Prof. O. O. Olugbara and Prof. S. O. Ojo"
-      ]
+      "courses": ["Supervisors: Prof. O. O. Olugbara and Prof. S. O. Ojo"]
     },
     {
       "institution": "Obafemi Awolowo University, Nigeria",
@@ -152,9 +148,7 @@
       "startDate": "2017",
       "endDate": "2018",
       "summary": "",
-      "highlights": [
-        "COMS7047A Adaptive Computation and Machine Learning."
-      ]
+      "highlights": ["COMS7047A Adaptive Computation and Machine Learning."]
     },
     {
       "name": "University of South Africa",
@@ -163,9 +157,7 @@
       "startDate": "2013",
       "endDate": "2017",
       "summary": "",
-      "highlights": [
-        "COS2621 Computer Organization (e-tutor)."
-      ]
+      "highlights": ["COS2621 Computer Organization (e-tutor)."]
     },
     {
       "name": "Tshwane University of Technology",
@@ -174,9 +166,7 @@
       "startDate": "2011",
       "endDate": "2017",
       "summary": "",
-      "highlights": [
-        "ISC216D Information Security; ORS216D Operating Systems; RRS108G Research Project."
-      ]
+      "highlights": ["ISC216D Information Security; ORS216D Operating Systems; RRS108G Research Project."]
     },
     {
       "name": "Tshwane University of Technology",
@@ -185,9 +175,7 @@
       "startDate": "2009",
       "endDate": "2011",
       "summary": "",
-      "highlights": [
-        "Discrete Structures; Principles of Programming; Advanced Object-Oriented Programming."
-      ]
+      "highlights": ["Discrete Structures; Principles of Programming; Advanced Object-Oriented Programming."]
     },
     {
       "name": "First City Monument Bank (FCMB), Lagos, Nigeria",
@@ -215,9 +203,7 @@
       "startDate": "2024",
       "endDate": "",
       "url": "https://www.ai4d.ai/projects/ai4d-african-languages-lab",
-      "highlights": [
-        "African-language NLP data and evaluation, capacity building, and equitable access, licensing, and policy."
-      ]
+      "highlights": ["African-language NLP data and evaluation, capacity building, and equitable access, licensing, and policy."]
     },
     {
       "name": "AfriGemma (Google Research Fund)",
@@ -225,9 +211,7 @@
       "startDate": "2025",
       "endDate": "2025",
       "url": "",
-      "highlights": [
-        "Adapting open Gemma models to African languages; open data, model, and tooling outputs."
-      ]
+      "highlights": ["Adapting open Gemma models to African languages; open data, model, and tooling outputs."]
     },
     {
       "name": "Afirka LLM",
@@ -235,9 +219,7 @@
       "startDate": "",
       "endDate": "",
       "url": "https://app.afirkallm.org/#purpose",
-      "highlights": [
-        "Open data and models for African languages, DSFSI, University of Pretoria."
-      ]
+      "highlights": ["Open data and models for African languages, DSFSI, University of Pretoria."]
     },
     {
       "name": "Transaction Capital: Vehicle Inspection",

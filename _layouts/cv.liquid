@@ -89,10 +89,14 @@ layout: default
           <a class="anchor" id="{{ data[0] }}"></a>
           <div class="card mt-3 p-3">
             {% case data[0] %}
-              {% when 'projects' %}{% assign section_title = 'Research Funding' %}
-              {% when 'volunteer' %}{% assign section_title = 'Service' %}
-              {% when 'talks' %}{% assign section_title = 'Invited Talks' %}
-              {% else %}{% assign section_title = data[0] | capitalize %}
+              {% when 'projects' -%}
+                {%- assign section_title = 'Research Funding' %}
+              {% when 'volunteer' -%}
+                {%- assign section_title = 'Service' %}
+              {% when 'talks' -%}
+                {%- assign section_title = 'Invited Talks' %}
+              {% else -%}
+                {%- assign section_title = data[0] | capitalize %}
             {% endcase %}
             <h3 class="card-title font-weight-medium">{{ section_title }}</h3>
             <div>
