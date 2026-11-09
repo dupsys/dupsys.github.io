@@ -1,14 +1,45 @@
-github_users:
-  - dupsys
+# Repository cards are rendered locally (no third-party image services).
+# Update descriptions/stars here when repositories change.
+github_user: dupsys
 
-repo_description_lines_max: 2
-
-github_repos:
-  - dupsys/AT-BLSTM
-  - dupsys/Subword-Information-for-AA-task
-  - dupsys/liveGAI
-  - dupsys/emnlp2016
-  - dupsys/YorubaEmbedding
-  - dupsys/MuseVecMap
-  - dupsys/SlangDict
-  - dupsys/LootingSA
+groups:
+  - title: Authorship Attribution & Digital Forensics
+    repos:
+      - name: AT-BLSTM
+        description: Authorship attribution using a bidirectional LSTM with convolution and attention layers.
+        language: Jupyter Notebook
+        stars: 1
+      - name: Subword-Information-for-AA-task
+        description: BiLSTM with a 2D CNN and two-dimensional pooling that captures successive writing styles to distinguish authors.
+        language: Jupyter Notebook
+        stars: 0
+  - title: Agentic & Trustworthy AI
+    repos:
+      - name: liveGAI
+        description: Live demonstration of agentic AI.
+        language: Jupyter Notebook
+        stars: 0
+  - title: Multilingual NLP & Embeddings
+    repos:
+      - name: MuseVecMap
+        description: Improving embedding representations with MUSE and VecMap.
+        language: Jupyter Notebook
+        stars: 0
+      - name: YorubaEmbedding
+        description: Curated word embeddings for Yorùbá.
+        language: Jupyter Notebook
+        stars: 0
+  - title: Social Media Text Analysis
+    repos:
+      - name: emnlp2016
+        description: Unsupervised stochastic model for formalising short text messages from online social networks.
+        language: Jupyter Notebook
+        stars: 3
+      - name: SlangDict
+        description: Normalising slang and abbreviations in user-generated content such as tweets.
+        language: Jupyter Notebook
+        stars: 0
+      - name: LootingSA
+        description: Public-sentiment analysis of Twitter during the 2021 unrest and looting in South Africa.
+        language: Jupyter Notebook
+        stars: 0

@@ -1815,3 +1815,112 @@ mjx-container[jax="CHTML"][display="true"] {
     bottom: calc(80px + env(safe-area-inset-bottom)) !important;
   }
 }
+
+/******************************************************************************
+ * Repositories page: locally rendered GitHub cards
+ ******************************************************************************/
+
+.gh-profile {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border: 1px solid var(--global-divider-color);
+  border-radius: 12px;
+  background-color: var(--global-card-bg-color);
+
+  .gh-avatar {
+    width: 72px;
+    height: 72px;
+    border-radius: 50%;
+  }
+
+  .gh-profile-text {
+    flex: 1;
+    min-width: 140px;
+  }
+
+  .gh-name {
+    font-size: 1.15rem;
+    font-weight: 600;
+  }
+
+  .gh-handle {
+    color: var(--global-text-color-light);
+    font-size: 0.9rem;
+  }
+
+  .gh-follow {
+    color: var(--global-theme-color);
+    border: 1px solid var(--global-theme-color);
+    border-radius: 999px;
+    text-transform: none;
+    box-shadow: none;
+
+    &:hover {
+      color: var(--global-hover-text-color);
+      background-color: var(--global-theme-color);
+    }
+  }
+}
+
+.repo-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 0.75rem;
+  margin-bottom: 1rem;
+}
+
+.repo-card {
+  display: flex;
+  flex-direction: column;
+  padding: 0.9rem 1rem;
+  border: 1px solid var(--global-divider-color);
+  border-radius: 12px;
+  background-color: var(--global-card-bg-color);
+  color: var(--global-text-color);
+  transition:
+    border-color 0.15s ease,
+    transform 0.15s ease;
+
+  &:hover {
+    text-decoration: none;
+    border-color: var(--global-theme-color);
+    transform: translateY(-1px);
+  }
+
+  .repo-card-title {
+    color: var(--global-theme-color);
+    font-weight: 600;
+    word-break: break-word;
+
+    i {
+      margin-right: 0.3rem;
+    }
+  }
+
+  .repo-card-desc {
+    flex: 1;
+    font-size: 0.875rem;
+    color: var(--global-text-color);
+    margin: 0.4rem 0 0.6rem;
+  }
+
+  .repo-card-meta {
+    display: flex;
+    gap: 1rem;
+    font-size: 0.8rem;
+    color: var(--global-text-color-light);
+  }
+
+  .lang-dot {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #da5b0b;
+    vertical-align: middle;
+  }
+}
