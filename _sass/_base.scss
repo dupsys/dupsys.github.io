@@ -1528,3 +1528,19 @@ mjx-container[jax="CHTML"][display="true"] {
 .project-list a strong {
   color: var(--global-theme-color);
 }
+
+// Work-authorization note on homepage
+.badge-note {
+  display: block;
+  overflow: hidden;
+  font-size: 0.9rem;
+  color: var(--global-text-color);
+  border-left: 3px solid var(--global-theme-color);
+  padding: 0.15rem 0.6rem;
+  margin-top: 0.25rem;
+
+  i {
+    color: var(--global-theme-color);
+    margin-right: 0.3rem;
+  }
+}
