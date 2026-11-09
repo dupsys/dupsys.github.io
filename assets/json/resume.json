@@ -206,20 +206,12 @@
       "highlights": ["African-language NLP data and evaluation, capacity building, and equitable access, licensing, and policy."]
     },
     {
-      "name": "AfriGemma (Google Research Fund)",
+      "name": "Afirka LLM (Google Research Fund)",
       "summary": "Co-PI; USD 200,000",
       "startDate": "2025",
       "endDate": "2025",
-      "url": "",
-      "highlights": ["Adapting open Gemma models to African languages; open data, model, and tooling outputs."]
-    },
-    {
-      "name": "Afirka LLM",
-      "summary": "Co-PI",
-      "startDate": "",
-      "endDate": "",
       "url": "https://app.afirkallm.org/#purpose",
-      "highlights": ["Open data and models for African languages, DSFSI, University of Pretoria."]
+      "highlights": ["Open data and models for African languages, adapting open Gemma models; DSFSI, University of Pretoria."]
     },
     {
       "name": "Transaction Capital: Vehicle Inspection",

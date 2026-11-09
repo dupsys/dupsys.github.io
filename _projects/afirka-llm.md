@@ -7,7 +7,7 @@ category: language
 related_publications: false
 ---
 
-[**Afirka LLM**](https://app.afirkallm.org/#purpose) is an open initiative at the Data Science for Social Impact (DSFSI) lab, University of Pretoria, that builds open data and models for African languages. I am a **Co-Principal Investigator** on the project, working with Dr Idris Abdulmumin and the DSFSI team.
+[**Afirka LLM**](https://app.afirkallm.org/#purpose) is an open initiative at the Data Science for Social Impact (DSFSI) lab, University of Pretoria, that builds open data and models for African languages. The project is funded by the Google Research Fund (USD 200,000). I am a **Co-Principal Investigator** on the project, working with Dr Idris Abdulmumin and the DSFSI team.
 
 The project:
 
