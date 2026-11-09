@@ -5,6 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Foundations, Theory and Practice of E-Voting, organised by [Electoral Commission of SA](https://www.youtube.com/watch?v=2zmdjwEGbnA&t=9249s)
-
-Foundations, Theory and Practice of E-Voting, organised by [Electoral Commission of SA](https://www.youtube.com/watch?v=2zmdjwEGbnA&t=9249s)
+Speaker and panellist on the Foundations, Theory and Practice of E-Voting, at an event organised by the [Electoral Commission of South Africa](https://www.youtube.com/watch?v=2zmdjwEGbnA&t=9249s).

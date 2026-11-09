@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description:
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
 ### University of Pretoria, Pretoria, South Africa (2019 -- present)

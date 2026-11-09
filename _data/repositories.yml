@@ -1,14 +1,14 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - dupsys
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - dupsys/AT-BLSTM
+  - dupsys/Subword-Information-for-AA-task
+  - dupsys/liveGAI
+  - dupsys/emnlp2016
+  - dupsys/YorubaEmbedding
+  - dupsys/MuseVecMap
+  - dupsys/SlangDict
+  - dupsys/LootingSA

@@ -2,16 +2,17 @@
 layout: about
 title: About
 permalink: /
-subtitle: #University of Pretoria, Pretoria. South Africa. Dupson LLC, Richmond, TX
+subtitle: >
+  Trustworthy AI Researcher &middot; Lecturer, Department of Computer Science, <a href="https://www.cs.up.ac.za/">University of Pretoria</a> &middot; Based in Richmond, Texas, USA
 
 profile:
   align: right
   image: abbey.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Room 4-35, IT Building</p>
+    <p>Richmond, Texas, USA</p>
+    <p>Department of Computer Science</p>
     <p>University of Pretoria</p>
-    <p>Pretoria. South Africa</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -20,13 +21,33 @@ announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
-
-# latest_posts:
-#   enabled: true
-#   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-#   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I'm Abiodun, a Lecturer and Coordinator of the Big Data Science program at the University of Pretoria's Computer Science Department. I am affiliated with the Data Science for Social Impact [(DSFSI)](https://www.dsfsi.co.za/) research lab and serve as a Faculty Fellow at African Data Science & Artificial Intelligence [AfriDSAI](https://www.up.ac.za/afridsai), where I led research at the intersection of natural language processing (NLP) and computational social science. I also hold a Global Perspectives Responsible AI Fellowship position at the [Stimson Center](https://www.stimson.org/project/responsible-ai-fellowship/fellows/) funded by Microsoft, contributing to the AI & Environment working group. My work focused on AI (NLP), particularly to address linguistic and cultural disparities in AI systems for low-resource languages, computational digital and cybersecurity.
+**I build AI systems that people can trust: models that are secure, accountable, and reliable across languages.**
 
-From 2009 to 2018, I served as a Lecturer at Tshwane University of Technology [TUT](https://tut.ac.za/), teaching database systems, networking, and object-oriented programming while supervising both undergraduate and postgraduate students. My research has attracted competitive funding from the [AI4D African Languages Lab](https://www.ai4d.ai/projects/ai4d-african-languages-lab) over $1 million CAD, Google exploreCSR Program [CSR](https://research.google/programs-and-events/past-programs/explorecsr/?filtertab=2023) ($18,000 USD), and the [AfriGemma](https://drive.google.com/file/d/1FuXxogbWdQ2ZZrs0YXJwlBQNSCF4QPJ9/view) initiative for Advancing African Language NLP ($200,000 USD). During my PhD at University of the Witwatersrand [WITS)(https://tinyurl.com/5fmvrcfj), Johannesburg, I proposed a digital tool to analyze and interpret humanities data for generalizability and reliability of forensic analyses using social media data.
+<div class="quick-links">
+  <a class="btn btn-sm z-depth-0" href="{{ '/cv/' | relative_url }}"><i class="fa-solid fa-file-lines"></i> CV</a>
+  <a class="btn btn-sm z-depth-0" href="https://scholar.google.com/citations?user=sdwzJUcAAAAJ&hl=en" target="_blank" rel="noopener noreferrer"><i class="ai ai-google-scholar"></i> Scholar</a>
+  <a class="btn btn-sm z-depth-0" href="https://www.linkedin.com/in/abiodunmodupe" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-linkedin"></i> LinkedIn</a>
+  <a class="btn btn-sm z-depth-0" href="https://github.com/dupsys" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-github"></i> GitHub</a>
+  <a class="btn btn-sm z-depth-0" href="https://orcid.org/0000-0002-9732-6466" target="_blank" rel="noopener noreferrer"><i class="ai ai-orcid"></i> ORCID</a>
+  <a class="btn btn-sm z-depth-0" href="mailto:abiodunmodupe@gmail.com"><i class="fa-solid fa-envelope"></i> Email</a>
+</div>
+
+I am a computer scientist working on **trustworthy artificial intelligence**, at the intersection of AI, cybersecurity, digital forensics, secure agentic systems, and reliable multilingual language technologies. I am a Lecturer and Coordinator of the Big Data Science programme in the Department of Computer Science at the University of Pretoria. I am also affiliated with the Data Science for Social Impact ([DSFSI](https://www.dsfsi.co.za/)) lab and am a Faculty Fellow of African Data Science & Artificial Intelligence ([AfriDSAI](https://www.up.ac.za/afridsai)). I hold a Global Perspectives Responsible AI Fellowship at the [Stimson Center](https://www.stimson.org/project/responsible-ai-fellowship/fellows/), supported by Microsoft, where I contribute to the AI & Environment working group.
+
+I earned my PhD in Computer Science from the University of the Witwatersrand, Johannesburg. My doctoral work built tools for the reliable and generalisable forensic analysis of social-media text, including deep-learning methods for authorship attribution. My research has been supported by competitive funding, including the [AI4D African Languages Lab](https://www.ai4d.ai/projects/ai4d-african-languages-lab) (over CAD 1 million), the Google exploreCSR programme (USD 18,000), and the [AfriGemma](https://drive.google.com/file/d/1FuXxogbWdQ2ZZrs0YXJwlBQNSCF4QPJ9/view) initiative for advancing African-language NLP (USD 200,000). I am Co-Principal Investigator of AfriGemma and of [Afirka LLM](https://app.afirkallm.org/#purpose), open efforts to build African-language large language models. I have more than 15 years of university teaching and supervision experience. I have taught databases, networking, information security, machine learning, and deep learning, at the Tshwane University of Technology from 2009 to 2018 and at the University of Pretoria since 2019.
+
+## Research focus
+
+### Secure & trustworthy agentic AI
+
+Making LLM-based agents and retrieval-augmented systems robust, auditable, and safe to deploy, so that they behave reliably when they act on behalf of people.
+
+### AI for cybersecurity & digital forensics
+
+Machine learning for authorship attribution, fraud and spam detection, and misinformation and hate-speech analysis: evidence-grade methods that investigators can rely on.
+
+### Reliable multilingual language technologies
+
+Open data, models, and evaluation for low-resource and African languages, so that AI systems work fairly and dependably beyond English. This includes [Afirka LLM](https://app.afirkallm.org/#purpose) and AfriGemma, which I co-lead as Co-PI, and the [AfriScience-MT](https://aclanthology.org/2026.emnlp-main.757/) translation work (EMNLP 2026).
