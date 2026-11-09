@@ -78,11 +78,6 @@ ninja.data = [{
           description: "Open data and models for African languages (Co-PI).",
           section: "Projects",handler: () => {
               window.location.href = "/projects/afirka-llm/";
-            },},{id: "projects-afrigemma",
-          title: 'AfriGemma',
-          description: "A multilingual, multimodal Pan-African large language model (Co-PI).",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/afrigemma/";
             },},{id: "projects-afriscience-mt",
           title: 'AfriScience-MT',
           description: "Decolonising science in Africa through machine translation.",
