@@ -309,13 +309,13 @@
     },
     {
       "title": "DSI–CSIR Inter-Bursary Support Programme",
-      "date": "2018-2023",
+      "date": "2018–2023",
       "awarder": "DSI / CSIR",
       "summary": "ZAR 360,000"
     },
     {
       "title": "Black in AI Travel Grants",
-      "date": "2017-2019",
+      "date": "2017–2019",
       "awarder": "Black in AI Workshop at NeurIPS",
       "summary": ""
     },
@@ -327,9 +327,53 @@
     },
     {
       "title": "CSIR/DSI Inter-Bursary Support Programme",
-      "date": "2009-2011",
+      "date": "2009–2011",
       "awarder": "CSIR / DSI",
       "summary": "ZAR 96,000"
+    }
+  ],
+  "talks": [
+    {
+      "title": "All You Need Is Community",
+      "event": "AI in Research Symposium, MIDAS, University of Michigan",
+      "location": "Ann Arbor, MI",
+      "date": "2025-03",
+      "url": "https://www.youtube.com/watch?v=K0TwLFhBjW0"
+    },
+    {
+      "title": "Foundations, Theory and Practice of E-Voting (speaker and panellist)",
+      "event": "Electoral Commission of South Africa",
+      "location": "Cape Town, South Africa",
+      "date": "2025-03",
+      "url": "https://www.youtube.com/watch?v=2zmdjwEGbnA&t=9249s"
+    },
+    {
+      "title": "AfriDSAI Teaching and Research Workshop on Data Science and AI",
+      "event": "University of Pretoria",
+      "location": "Pretoria, South Africa",
+      "date": "2025-05",
+      "url": ""
+    },
+    {
+      "title": "Responsible AI and Capacity Building",
+      "event": "AI4D Partners Convening, University of Pretoria",
+      "location": "Pretoria, South Africa",
+      "date": "2024-10",
+      "url": ""
+    },
+    {
+      "title": "Session Moderator, Global Humanities Institute 2024: Design Justice AI (CHCI)",
+      "event": "University of Pretoria",
+      "location": "Pretoria, South Africa",
+      "date": "2024-06",
+      "url": ""
+    },
+    {
+      "title": "Conference presentations",
+      "event": "IEEE SMC, Honolulu (2023); IEEE ICTAS, Durban (2017); WCE, London (2013)",
+      "location": "",
+      "date": "",
+      "url": ""
     }
   ],
   "publications": [
